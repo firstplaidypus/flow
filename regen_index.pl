@@ -18,10 +18,13 @@ use POSIX;
 # content, suitable for adding to $GITHUB_STEP_SUMMARY
 # (per https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
 
+my $branch_name = $1;
 my $base = "https://mastercard.github.io/flow";
 my $now_ts = time;
 my @dirs = qw( execution mutation );
 my @markdown_lines = ();
+
+push @markdown_lines, "Hi! the branch name is '$branch_name'" if defined $branch_name;
 
 push @markdown_lines, ingest_new_report( $_, $now_ts ) foreach @dirs;
 
