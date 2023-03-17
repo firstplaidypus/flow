@@ -24,9 +24,7 @@ my $now_ts = time;
 my @dirs = qw( execution mutation );
 my @markdown_lines = ();
 
-push @markdown_lines, "Hi! the branch name is '$branch_name'";
-
-push @markdown_lines, ingest_new_report( $_, $now_ts ) foreach @dirs;
+push @markdown_lines, ingest_new_report( $_, $now_ts, $branch_name ) foreach @dirs;
 
 purge_old_reports(
 	now_ts => $now_ts,
@@ -46,9 +44,10 @@ say foreach @markdown_lines;
 1;
 
 sub ingest_new_report {
-	my ( $dir, $now_ts ) = @_;
+	my ( $dir, $now_ts, $branch_name ) = @_;
 	my $src = "$dir/ingest";
 	if( -e $src ) {
+		save_branch_name( $src, $branch_name || 'main' );
 		my $dst = "$dir/$now_ts";
 
 		move( $src, $dst ) or die "move failed: $!";
@@ -64,6 +63,26 @@ sub ingest_new_report {
 	}
 
 	return ();
+}
+
+sub save_branch_name {
+	my ( $dir, $branch_name ) = @_;
+	my $file = "$dir/branch_name.txt";
+	open my $wh, '>', $file or die "Failed to open $file $!";
+	print $wh $branch_name;
+	close $wh;
+}
+
+sub load_branch_name {
+	my ( $dir ) = @_;
+	my $file = "$dir/branch_name.txt";
+	if( -e $file ) {
+		open my $rh, $file or die "Failed to open $file $!";
+		my $branch_name = do { local $/ = undef; <$rh> };
+		close $rh;
+		return $branch_name;
+	}
+	return 'main';
 }
 
 sub index_scan {
@@ -160,12 +179,15 @@ sub generate_table {
 	
 	# map from time to name to path
 	my $data = {};
+	# map from time to branch name
+	my %branch_names = {};
 	# unique names
 	my %all_index_names = ();
 	my %report_names = ();
 	foreach my $report ( @reports ) {
 		my $name = $report;
 		$name = strftime '%Y-%m-%dT%H:%M:%S', gmtime $name if $name =~ m/^\d+$/;
+		$branch_names{$name} = load_branch_name( "$dir/$report" );
 		$report_names{$name} = 1;
 		my @index_paths = index_scan( "$dir/$report" );
 
@@ -182,6 +204,7 @@ sub generate_table {
 EOT
 	foreach my $time ( reverse sort keys %report_names ) {
 		$table .= "\t\t<tr> <th><code>$time</code></th>\n";
+		$table .= "\t\t\t <th><code>$branch_names{$time}</code></th>\n";
 		foreach my $name ( sort keys %all_index_names ) {
 			$table .= "\t\t\t<td>";
 			$table .= "<a href=\"$data->{$time}->{$name}\">$name</a>" if defined $data->{$time}->{$name};
