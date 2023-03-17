@@ -180,7 +180,7 @@ sub generate_table {
 	# map from time to name to path
 	my $data = {};
 	# map from time to branch name
-	my %branch_names = {};
+	my %branch_names = ();
 	# unique names
 	my %all_index_names = ();
 	my %report_names = ();
