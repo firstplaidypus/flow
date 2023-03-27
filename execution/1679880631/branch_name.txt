@@ -1,0 +1,1 @@
+dependabot/maven/org.apache.maven.plugins-maven-resources-plugin-3.3.1
