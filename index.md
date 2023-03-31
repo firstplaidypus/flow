@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>diff_load_batch</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-03-31T14:30:09</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1680273009/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-03-31T14:04:32</code></th>
 			 <th><code>diff_load_batch</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-03-27T01:39:09</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-release-plugin-3.0.0</code></th>
 			<td><a href="mutation/1679881149/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-03-27T01:38:49</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.11.7</code></th>
-			<td><a href="mutation/1679881129/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
