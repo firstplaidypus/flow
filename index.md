@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.21.4</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-04-03T01:36:42</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.21.4</code></th>
+			<td><a href="mutation/1680485802/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-03-31T14:30:09</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-03-27T01:43:30</code></th>
 			 <th><code>dependabot/github_actions/github/codeql-action-2.2.8</code></th>
 			<td><a href="mutation/1679881410/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-03-27T01:39:09</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-release-plugin-3.0.0</code></th>
-			<td><a href="mutation/1679881149/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
