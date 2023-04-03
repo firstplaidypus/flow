@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/github/codeql-action-2.2.9</code></th>
+			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.1.3</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-04-03T01:41:32</code></th>
+			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.1.3</code></th>
+			<td><a href="mutation/1680486092/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-04-03T01:41:04</code></th>
 			 <th><code>dependabot/github_actions/github/codeql-action-2.2.9</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-03-27T07:48:12</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-deploy-plugin-3.1.1</code></th>
 			<td><a href="mutation/1679903292/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-03-27T01:46:59</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-18.15.10</code></th>
-			<td><a href="mutation/1679881619/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
