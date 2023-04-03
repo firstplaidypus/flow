@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.1.3</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-java-3.11.0</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-04-03T01:43:15</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-java-3.11.0</code></th>
+			<td><a href="mutation/1680486195/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-04-03T01:41:32</code></th>
 			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.1.3</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-03-27T07:59:19</code></th>
 			 <th><code>pages_mutex</code></th>
 			<td><a href="mutation/1679903959/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-03-27T07:48:12</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-deploy-plugin-3.1.1</code></th>
-			<td><a href="mutation/1679903292/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
