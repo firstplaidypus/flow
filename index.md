@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.9</code></th>
+			 <th><code>dependabot/github_actions/step-security/harden-runner-2.3.0</code></th>
 			<td><a href="execution/latest/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-04-10T01:22:08</code></th>
+			 <th><code>dependabot/github_actions/step-security/harden-runner-2.3.0</code></th>
+			<td><a href="execution/1681089728/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1681089728/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1681089728/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1681089728/flow_execution_reports/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1681089728/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1681089728/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1681089728/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-04-10T01:20:09</code></th>
 			 <th><code>dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.9</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1679905220/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1679905220/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1679905220/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-03-27T08:17:10</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1679905030/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1679905030/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1679905030/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1679905030/flow_execution_reports/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1679905030/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1679905030/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1679905030/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
