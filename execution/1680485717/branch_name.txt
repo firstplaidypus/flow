@@ -1,1 +1,0 @@
-dependabot/github_actions/github/codeql-action-2.2.9
