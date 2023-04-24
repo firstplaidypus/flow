@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2023-04-24T08:14:43</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1682324083/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1682324083/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1682324083/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1682324083/flow_execution_reports/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1682324083/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1682324083/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1682324083/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2023-04-24T08:10:29</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1682323829/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1681377611/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1681377611/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1681377611/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-04-13T08:47:01</code></th>
-			 <th><code>mermaid_details</code></th>
-			<td><a href="execution/1681375621/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1681375621/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1681375621/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1681375621/flow_execution_reports/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1681375621/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1681375621/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1681375621/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
