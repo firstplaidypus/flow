@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/info.picocli-picocli-4.7.3</code></th>
+			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.9.0</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-04-24T07:41:01</code></th>
+			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.9.0</code></th>
+			<td><a href="mutation/1682322061/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-04-24T07:38:18</code></th>
 			 <th><code>dependabot/maven/info.picocli-picocli-4.7.3</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-04-10T07:55:50</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1681113350/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-04-10T07:49:43</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.12.0</code></th>
-			<td><a href="mutation/1681112983/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
