@@ -235,8 +235,30 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.10</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-05-01T01:21:27</code></th>
+			 <th><code>dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.10</code></th>
+			<td><a href="mutation/1682904087/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -655,28 +677,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-04-24T01:25:50</code></th>
 			 <th><code>dependabot/github_actions/step-security/harden-runner-2.3.1</code></th>
 			<td><a href="mutation/1682299550/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-04-21T10:17:59</code></th>
-			 <th><code>ng_bump</code></th>
-			<td><a href="mutation/1682072279/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
