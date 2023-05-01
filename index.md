@@ -235,8 +235,30 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.junit.platform-junit-platform-launcher-1.9.3</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/rxjs-7.8.1</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-05-01T01:25:54</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/rxjs-7.8.1</code></th>
+			<td><a href="mutation/1682904354/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -655,28 +677,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-04-24T01:29:45</code></th>
 			 <th><code>dependabot/github_actions/github/codeql-action-2.3.0</code></th>
 			<td><a href="mutation/1682299785/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-04-24T01:29:16</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/karma-6.4.2</code></th>
-			<td><a href="mutation/1682299756/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
