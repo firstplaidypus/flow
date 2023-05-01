@@ -235,8 +235,30 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.10</code></th>
+			 <th><code>dependabot/maven/org.junit.jupiter-junit-jupiter-5.9.3</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-05-01T01:21:53</code></th>
+			 <th><code>dependabot/maven/org.junit.jupiter-junit-jupiter-5.9.3</code></th>
+			<td><a href="mutation/1682904113/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -655,28 +677,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-04-24T01:26:21</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-18.16.0</code></th>
 			<td><a href="mutation/1682299581/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-04-24T01:25:50</code></th>
-			 <th><code>dependabot/github_actions/step-security/harden-runner-2.3.1</code></th>
-			<td><a href="mutation/1682299550/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
