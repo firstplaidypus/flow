@@ -1,0 +1,1 @@
+dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.10
