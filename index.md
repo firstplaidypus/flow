@@ -235,8 +235,30 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-18.16.3</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-05-02T09:44:27</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1683020667/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -655,28 +677,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-04-24T07:53:25</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1682322805/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-04-24T07:41:01</code></th>
-			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.9.0</code></th>
-			<td><a href="mutation/1682322061/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
