@@ -256,6 +256,28 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-05-02T09:53:48</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1683021228/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-05-02T09:49:42</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1683020982/mutation_report/index.html">mutation</a></td>
@@ -655,28 +677,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-04-24T07:59:50</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/karma-chrome-launcher-3.2.0</code></th>
 			<td><a href="mutation/1682323190/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-04-24T07:58:47</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1682323127/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
