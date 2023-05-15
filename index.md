@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2023-05-15T07:06:59</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1684134419/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2023-05-15T06:41:07</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1684132867/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-05-08T01:18:22</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.13.1</code></th>
 			<td><a href="mutation/1683508702/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-05-08T01:16:38</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.1.0</code></th>
-			<td><a href="mutation/1683508598/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
