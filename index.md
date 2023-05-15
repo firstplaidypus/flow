@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.9.1</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.1.4</code></th>
 			<td><a href="execution/latest/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-05-15T01:33:44</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.1.4</code></th>
+			<td><a href="execution/1684114424/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1684114424/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1684114424/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1684114424/flow_execution_reports/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1684114424/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1684114424/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1684114424/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-05-15T01:24:18</code></th>
 			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.9.1</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1683020610/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1683020610/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1683020610/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-05-02T09:32:53</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/rxjs-7.8.1</code></th>
-			<td><a href="execution/1683019973/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1683019973/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1683019973/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1683019973/flow_execution_reports/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1683019973/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1683019973/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1683019973/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
