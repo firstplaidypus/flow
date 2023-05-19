@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>material_bump</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-05-19T12:50:57</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1684500657/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-05-19T11:11:32</code></th>
 			 <th><code>material_bump</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-05-08T01:22:31</code></th>
 			 <th><code>dependabot/github_actions/github/codeql-action-2.3.3</code></th>
 			<td><a href="mutation/1683508951/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-05-08T01:21:08</code></th>
-			 <th><code>dependabot/github_actions/step-security/harden-runner-2.4.0</code></th>
-			<td><a href="mutation/1683508868/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
