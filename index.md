@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>material_bump</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2023-05-19T11:11:32</code></th>
+			 <th><code>material_bump</code></th>
+			<td><a href="mutation/1684494692/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2023-05-19T10:04:24</code></th>
 			 <th><code>material_bump</code></th>
 			<td><a href="mutation/1684490664/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-05-08T01:21:08</code></th>
 			 <th><code>dependabot/github_actions/step-security/harden-runner-2.4.0</code></th>
 			<td><a href="mutation/1683508868/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-05-08T01:19:24</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.1.0</code></th>
-			<td><a href="mutation/1683508764/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
