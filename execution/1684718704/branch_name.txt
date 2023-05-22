@@ -1,0 +1,1 @@
+dependabot/maven/org.pitest-pitest-junit5-plugin-1.2.0
