@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.3.0</code></th>
+			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.14.0</code></th>
 			<td><a href="execution/latest/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-05-22T01:26:30</code></th>
+			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.14.0</code></th>
+			<td><a href="execution/1684718790/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1684718790/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1684718790/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1684718790/flow_execution_reports/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1684718790/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1684718790/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1684718790/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-05-22T01:25:40</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.3.0</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1683624641/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1683624641/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1683624641/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-05-08T01:22:06</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.21.8</code></th>
-			<td><a href="execution/1683508926/flow_execution_reports/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1683508926/flow_execution_reports/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1683508926/flow_execution_reports/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1683508926/flow_execution_reports/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1683508926/flow_execution_reports/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1683508926/flow_execution_reports/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1683508926/flow_execution_reports/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
