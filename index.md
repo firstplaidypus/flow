@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>coverage_metric</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2023-05-30T15:16:07</code></th>
+			 <th><code>coverage_metric</code></th>
+			<td><a href="mutation/1685459767/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2023-05-30T14:25:37</code></th>
 			 <th><code>coverage_metric</code></th>
 			<td><a href="mutation/1685456737/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-05-24T00:42:41</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/socket.io-parser-4.2.3</code></th>
 			<td><a href="mutation/1684888961/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-05-22T13:24:43</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1684761883/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
