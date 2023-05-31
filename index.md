@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>test_noise</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-05-31T15:00:00</code></th>
+			 <th><code>test_noise</code></th>
+			<td><a href="mutation/1685545200/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-05-31T08:58:46</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-05-29T01:34:49</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-4.3.2</code></th>
 			<td><a href="mutation/1685324089/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-05-29T01:31:48</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.14.1</code></th>
-			<td><a href="mutation/1685323908/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
