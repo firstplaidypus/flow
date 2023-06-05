@@ -235,8 +235,25 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/maven/info.picocli-picocli-4.7.4</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-06-05T01:31:29</code></th>
+			 <th><code>dependabot/maven/info.picocli-picocli-4.7.4</code></th>
+			<td><a href="mutation/1685928689/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-05-29T01:42:16</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.2.5</code></th>
 			<td><a href="mutation/1685324536/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-05-29T01:38:43</code></th>
-			 <th><code>dependabot/github_actions/github/codeql-action-2.3.5</code></th>
-			<td><a href="mutation/1685324323/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
