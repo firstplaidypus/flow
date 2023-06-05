@@ -235,8 +235,25 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>diff_component</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-06-05T14:39:43</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1685975983/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -573,23 +590,6 @@ Test quality metrics for framework packages.
 			<td><a href="mutation/1685614602/project_mutation_reports/model/target/pit-reports/index.html">project_mutation_reports/model/target/pit-reports</a></td>
 			<td><a href="mutation/1685614602/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
 			<td><a href="mutation/1685614602/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
-		</tr>
-		<tr> <th><code>2023-06-01T09:13:10</code></th>
-			 <th><code>test_noise</code></th>
-			<td><a href="mutation/1685610790/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 	</tbody>
 </table>
