@@ -251,6 +251,23 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-06-05T12:23:23</code></th>
+			 <th><code>diff_component</code></th>
+			<td><a href="mutation/1685967803/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-06-05T11:05:29</code></th>
 			 <th><code>diff_component</code></th>
 			<td><a href="mutation/1685963129/mutation_report/index.html">mutation</a></td>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-05-30T15:31:20</code></th>
 			 <th><code>coverage_metric</code></th>
 			<td><a href="mutation/1685460680/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-05-30T15:16:07</code></th>
-			 <th><code>coverage_metric</code></th>
-			<td><a href="mutation/1685459767/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
