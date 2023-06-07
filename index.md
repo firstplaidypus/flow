@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>angular_tests</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2023-06-07T13:18:05</code></th>
+			 <th><code>angular_tests</code></th>
+			<td><a href="mutation/1686143885/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2023-06-06T15:51:24</code></th>
 			 <th><code>angular_tests</code></th>
 			<td><a href="mutation/1686066684/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-06-05T01:31:29</code></th>
 			 <th><code>dependabot/maven/info.picocli-picocli-4.7.4</code></th>
 			<td><a href="mutation/1685928689/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-06-01T10:32:18</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1685615538/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
