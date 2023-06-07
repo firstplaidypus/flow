@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>angular_tests</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-06-07T13:52:32</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1686145952/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-06-07T13:18:05</code></th>
 			 <th><code>angular_tests</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-06-05T01:32:46</code></th>
 			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.15.2</code></th>
 			<td><a href="mutation/1685928766/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-06-05T01:31:29</code></th>
-			 <th><code>dependabot/maven/info.picocli-picocli-4.7.4</code></th>
-			<td><a href="mutation/1685928689/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
