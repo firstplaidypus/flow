@@ -21,7 +21,7 @@ use POSIX;
 my $branch_name = $ARGV[0];
 my $base = "https://mastercard.github.io/flow";
 my $now_ts = time;
-my @dirs = qw( execution mutation );
+my @dirs = qw( execution mutation ng_coverage );
 my @markdown_lines = ();
 
 push @markdown_lines, ingest_new_report( $_, $now_ts, $branch_name ) foreach @dirs;

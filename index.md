@@ -321,3 +321,10 @@ Test quality metrics for framework packages.
 	</tbody>
 </table>
 <!-- end:mutation -->
+
+## Angular coverage
+
+Test coverage for the report application.
+
+<!-- start:ng_coverage -->
+<!-- end:ng_coverage -->
