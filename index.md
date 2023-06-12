@@ -256,6 +256,28 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-06-12T08:14:23</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1686557663/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-06-12T07:45:58</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1686555958/mutation_report/index.html">mutation</a></td>
@@ -655,28 +677,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-06-05T14:39:43</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1685975983/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-06-05T14:21:31</code></th>
-			 <th><code>diff_component</code></th>
-			<td><a href="mutation/1685974891/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
