@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.1.2</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.22.5</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-06-12T01:34:26</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.22.5</code></th>
+			<td><a href="mutation/1686533666/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-06-12T01:30:56</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.1.2</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-06-05T10:04:40</code></th>
 			 <th><code>diff_component</code></th>
 			<td><a href="mutation/1685959480/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-06-05T01:39:10</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/tslib-2.5.3</code></th>
-			<td><a href="mutation/1685929150/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
