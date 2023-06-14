@@ -256,6 +256,28 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-06-14T08:24:20</code></th>
+			 <th><code>embed-icons</code></th>
+			<td><a href="mutation/1686731060/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-06-13T16:11:02</code></th>
 			 <th><code>embed-icons</code></th>
 			<td><a href="mutation/1686672662/mutation_report/index.html">mutation</a></td>
@@ -655,28 +677,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-06-07T13:18:05</code></th>
 			 <th><code>angular_tests</code></th>
 			<td><a href="mutation/1686143885/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-06-06T15:51:24</code></th>
-			 <th><code>angular_tests</code></th>
-			<td><a href="mutation/1686066684/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
