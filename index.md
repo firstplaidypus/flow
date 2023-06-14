@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>changelog_auto</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/example/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-06-14T15:00:51</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1686754851/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1686754851/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1686754851/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1686754851/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1686754851/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1686754851/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1686754851/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-06-14T14:50:20</code></th>
 			 <th><code>changelog_auto</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1686299688/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1686299688/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1686299688/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-06-09T08:18:37</code></th>
-			 <th><code>fix_link</code></th>
-			<td><a href="execution/1686298717/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1686298717/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1686298717/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1686298717/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1686298717/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1686298717/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1686298717/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -708,8 +708,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>changelog_auto</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-06-14T15:00:51</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1686754851/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-06-14T14:50:20</code></th>
 			 <th><code>changelog_auto</code></th>
@@ -786,10 +790,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-06-09T08:34:48</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1686299688/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-06-09T08:18:37</code></th>
-			 <th><code>fix_link</code></th>
-			<td><a href="ng_coverage/1686298717/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
