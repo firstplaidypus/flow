@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/karma-coverage-2.2.1</code></th>
+			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.13.3</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-06-26T01:32:42</code></th>
+			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.13.3</code></th>
+			<td><a href="mutation/1687743162/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-06-26T01:31:07</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/karma-coverage-2.2.1</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-06-12T07:27:41</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1686554861/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-06-12T07:27:15</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1686554835/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
