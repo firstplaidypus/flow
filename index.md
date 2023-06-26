@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.0.1</code></th>
 			<td><a href="execution/latest/example/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-06-26T08:54:47</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.0.1</code></th>
+			<td><a href="execution/1687769687/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1687769687/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1687769687/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1687769687/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1687769687/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1687769687/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1687769687/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-06-26T08:22:57</code></th>
 			 <th><code>main</code></th>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1686754220/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1686754220/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2023-06-14T09:19:44</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1686734384/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1686734384/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1686734384/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1686734384/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1686734384/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1686734384/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1686734384/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -330,8 +330,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.0.1</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-06-26T08:54:47</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.0.1</code></th>
+			<td><a href="ng_coverage/1687769687/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-06-26T08:22:57</code></th>
 			 <th><code>main</code></th>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-06-14T14:50:20</code></th>
 			 <th><code>changelog_auto</code></th>
 			<td><a href="ng_coverage/1686754220/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-06-14T09:19:44</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1686734384/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
