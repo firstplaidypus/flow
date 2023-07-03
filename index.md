@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-4.3.5</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-07-03T07:19:20</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-4.3.5</code></th>
+			<td><a href="mutation/1688368760/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-07-03T07:18:43</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-06-26T01:34:30</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.14.2</code></th>
 			<td><a href="mutation/1687743270/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-06-26T01:32:42</code></th>
-			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.13.3</code></th>
-			<td><a href="mutation/1687743162/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
