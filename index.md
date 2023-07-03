@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2023-07-03T07:14:57</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1688368497/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1688368497/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1688368497/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1688368497/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1688368497/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1688368497/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1688368497/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2023-07-03T07:13:37</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1688368417/example/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1687743125/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1687743125/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2023-06-26T01:28:38</code></th>
-			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.2.0</code></th>
-			<td><a href="execution/1687742918/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1687742918/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1687742918/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1687742918/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1687742918/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1687742918/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1687742918/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -333,6 +333,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2023-07-03T07:14:57</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1688368497/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2023-07-03T07:13:37</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1688368417/report/index.html">ng_coverage</a></td>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-06-26T01:32:05</code></th>
 			 <th><code>dependabot/github_actions/step-security/harden-runner-2.4.1</code></th>
 			<td><a href="ng_coverage/1687743125/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-06-26T01:28:38</code></th>
-			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.2.0</code></th>
-			<td><a href="ng_coverage/1687742918/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
