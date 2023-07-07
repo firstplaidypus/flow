@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/maven/example/com.h2database-h2-2.2.220</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-07-07T22:16:14</code></th>
+			 <th><code>dependabot/maven/example/com.h2database-h2-2.2.220</code></th>
+			<td><a href="mutation/1688768174/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-07-03T07:37:31</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-06-26T08:25:14</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1687767914/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-06-26T01:40:06</code></th>
-			 <th><code>dependabot/github_actions/step-security/harden-runner-2.4.1</code></th>
-			<td><a href="mutation/1687743606/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
