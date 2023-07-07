@@ -1,0 +1,1 @@
+dependabot/maven/example/com.h2database-h2-2.2.220
