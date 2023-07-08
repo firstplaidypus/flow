@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/example/com.h2database-h2-2.2.220</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-07-08T06:08:54</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1688796534/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-07-07T22:16:14</code></th>
 			 <th><code>dependabot/maven/example/com.h2database-h2-2.2.220</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-06-26T08:26:24</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1687767984/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-06-26T08:25:14</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1687767914/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
