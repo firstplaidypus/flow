@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>system_diagram_test</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2023-07-10T13:29:27</code></th>
+			 <th><code>system_diagram_test</code></th>
+			<td><a href="mutation/1688995767/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2023-07-10T11:33:25</code></th>
 			 <th><code>system_diagram_test</code></th>
 			<td><a href="mutation/1688988805/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-07-03T01:03:33</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-4.3.5</code></th>
 			<td><a href="mutation/1688346213/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-07-03T01:00:00</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.3.3</code></th>
-			<td><a href="mutation/1688346000/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
