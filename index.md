@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>system_diagram_test</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-07-10T14:10:01</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1688998201/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-07-10T13:48:05</code></th>
 			 <th><code>system_diagram_test</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-07-03T07:18:43</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1688368723/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-07-03T01:13:54</code></th>
-			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.13.4</code></th>
-			<td><a href="mutation/1688346834/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
