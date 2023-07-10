@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>system_diagram_test</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2023-07-10T13:48:05</code></th>
+			 <th><code>system_diagram_test</code></th>
+			<td><a href="mutation/1688996885/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2023-07-10T13:29:27</code></th>
 			 <th><code>system_diagram_test</code></th>
 			<td><a href="mutation/1688995767/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-07-03T01:13:54</code></th>
 			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.13.4</code></th>
 			<td><a href="mutation/1688346834/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-07-03T01:03:33</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-4.3.5</code></th>
-			<td><a href="mutation/1688346213/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
