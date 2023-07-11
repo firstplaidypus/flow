@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>diagram_perf</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-07-11T09:52:10</code></th>
+			 <th><code>diagram_perf</code></th>
+			<td><a href="mutation/1689069130/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-07-10T16:13:03</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-07-03T07:21:43</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1688368903/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-07-03T07:20:11</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1688368811/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
