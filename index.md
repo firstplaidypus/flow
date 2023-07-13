@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>bom</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/example/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-07-13T11:53:14</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1689249194/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1689249194/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1689249194/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1689249194/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1689249194/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1689249194/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1689249194/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-07-13T08:45:20</code></th>
 			 <th><code>bom</code></th>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1688951514/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1688951514/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2023-07-10T00:25:50</code></th>
-			 <th><code>dependabot/github_actions/actions/setup-node-3.7.0</code></th>
-			<td><a href="execution/1688948750/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1688948750/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1688948750/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1688948750/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1688948750/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1688948750/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1688948750/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -330,8 +330,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>bom</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-07-13T11:53:14</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1689249194/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-07-13T08:45:20</code></th>
 			 <th><code>bom</code></th>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-07-10T01:11:54</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.22.8</code></th>
 			<td><a href="ng_coverage/1688951514/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-07-10T00:25:50</code></th>
-			 <th><code>dependabot/github_actions/actions/setup-node-3.7.0</code></th>
-			<td><a href="ng_coverage/1688948750/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
