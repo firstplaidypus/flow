@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/tslib-2.6.1</code></th>
+			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.3.0</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-07-31T01:03:17</code></th>
+			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.3.0</code></th>
+			<td><a href="mutation/1690765397/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-07-13T10:49:34</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1689245374/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-07-13T08:55:04</code></th>
-			 <th><code>bom</code></th>
-			<td><a href="mutation/1689238504/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
