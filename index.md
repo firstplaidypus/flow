@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.3.1</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-08-14T08:09:41</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1692000581/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-08-14T07:46:37</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.3.1</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-07-31T07:59:17</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1690790357/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-07-31T01:33:18</code></th>
-			 <th><code>dependabot/github_actions/step-security/harden-runner-2.5.0</code></th>
-			<td><a href="mutation/1690767198/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
