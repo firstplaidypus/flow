@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2023-08-21T09:30:51</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1692610251/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1692610251/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1692610251/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1692610251/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1692610251/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1692610251/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1692610251/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2023-08-21T09:29:42</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1692610182/example/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1690794935/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1690794935/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2023-07-31T08:28:17</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.3.0</code></th>
-			<td><a href="execution/1690792097/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1690792097/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1690792097/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1690792097/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1690792097/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1690792097/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1690792097/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -333,6 +333,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2023-08-21T09:30:51</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1692610251/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2023-08-21T09:29:42</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1692610182/report/index.html">ng_coverage</a></td>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-07-31T09:15:35</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1690794935/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-07-31T08:28:17</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.3.0</code></th>
-			<td><a href="ng_coverage/1690792097/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
