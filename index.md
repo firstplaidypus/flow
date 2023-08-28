@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.22.11</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.1.1</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-08-28T00:45:29</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.1.1</code></th>
+			<td><a href="mutation/1693183529/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-08-28T00:44:33</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.22.11</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-08-14T01:25:18</code></th>
 			 <th><code>dependabot/github_actions/step-security/harden-runner-2.5.1</code></th>
 			<td><a href="mutation/1691976318/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-08-07T06:07:18</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1691388438/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
