@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.5.7</code></th>
+			 <th><code>dependabot/maven/info.picocli-picocli-4.7.5</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-08-29T08:25:23</code></th>
+			 <th><code>dependabot/maven/info.picocli-picocli-4.7.5</code></th>
+			<td><a href="mutation/1693297523/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-08-29T08:18:02</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.5.7</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-08-14T07:43:04</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1691998984/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-08-14T07:41:05</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1691998865/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
