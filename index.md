@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2023-08-29T09:26:16</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1693301176/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1693301176/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1693301176/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1693301176/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1693301176/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1693301176/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1693301176/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2023-08-29T09:24:36</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1693301076/example/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1692578371/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1692578371/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2023-08-14T08:02:11</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1692000131/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1692000131/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1692000131/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1692000131/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1692000131/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1692000131/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1692000131/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -333,6 +333,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2023-08-29T09:26:16</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1693301176/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2023-08-29T09:24:36</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1693301076/report/index.html">ng_coverage</a></td>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-08-21T00:39:31</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.14.4</code></th>
 			<td><a href="ng_coverage/1692578371/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-08-14T08:02:11</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1692000131/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
