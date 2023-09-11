@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.12.1</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-enforcer-plugin-3.4.1</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-09-11T01:19:26</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-enforcer-plugin-3.4.1</code></th>
+			<td><a href="mutation/1694395166/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-09-11T01:18:56</code></th>
 			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.12.1</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-08-29T09:34:00</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1693301640/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-08-29T09:33:31</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1693301611/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
