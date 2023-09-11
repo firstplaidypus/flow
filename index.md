@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2023-09-11T05:55:42</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1694411742/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2023-09-11T05:55:04</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1694411704/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-04T01:20:00</code></th>
 			 <th><code>dependabot/maven/com.h2database-h2-2.2.222</code></th>
 			<td><a href="mutation/1693790400/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-09-04T01:19:17</code></th>
-			 <th><code>dependabot/maven/io.github.bonigarcia-webdrivermanager-5.5.3</code></th>
-			<td><a href="mutation/1693790357/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
