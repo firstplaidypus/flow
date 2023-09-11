@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.12.1</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.6.0</code></th>
 			<td><a href="execution/latest/example/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-09-11T01:18:15</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.6.0</code></th>
+			<td><a href="execution/1694395095/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1694395095/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1694395095/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1694395095/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1694395095/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1694395095/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1694395095/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-09-11T01:15:09</code></th>
 			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.12.1</code></th>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1693301247/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1693301247/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2023-08-29T09:26:16</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1693301176/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1693301176/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1693301176/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1693301176/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1693301176/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1693301176/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1693301176/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -330,8 +330,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.12.1</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.6.0</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-09-11T01:18:15</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.6.0</code></th>
+			<td><a href="ng_coverage/1694395095/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-09-11T01:15:09</code></th>
 			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.12.1</code></th>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-08-29T09:27:27</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1693301247/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-08-29T09:26:16</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1693301176/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
