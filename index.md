@@ -235,15 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.14.0</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 			<td></td>
-			<td><a href="mutation/latest/mutation_report/index.html">mutation_report</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/api/target/pit-reports/index.html">project_mutation_reports/api/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-core/target/pit-reports/index.html">project_mutation_reports/message/message-core/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-http/target/pit-reports/index.html">project_mutation_reports/message/message-http/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-json/target/pit-reports/index.html">project_mutation_reports/message/message-json/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-sql/target/pit-reports/index.html">project_mutation_reports/message/message-sql/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-text/target/pit-reports/index.html">project_mutation_reports/message/message-text/target/pit-reports</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-09-18T11:10:38</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1695035438/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-18T10:49:54</code></th>
 			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.14.0</code></th>
@@ -446,17 +457,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-11T01:26:52</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.22.17</code></th>
 			<td><a href="mutation/1694395612/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-11T01:21:45</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.6.0</code></th>
-			<td><a href="mutation/1694395305/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
