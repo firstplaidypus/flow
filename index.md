@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.0</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-4.3.6</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-09-18T01:26:14</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-4.3.6</code></th>
+			<td><a href="mutation/1695000374/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-09-18T00:39:44</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.0</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-04T08:52:31</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1693817551/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-09-04T08:50:48</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1693817448/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
