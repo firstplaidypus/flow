@@ -235,8 +235,19 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>sut_highlight</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-09-19T15:14:40</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1695136480/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -446,17 +457,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-11T05:51:06</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1694411466/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-11T05:37:47</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-3.1.3</code></th>
-			<td><a href="mutation/1694410667/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
