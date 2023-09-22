@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2023-09-22T21:11:04</code></th>
+			 <th><code>linux_bad_file_read</code></th>
+			<td><a href="execution/1695417064/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1695417064/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1695417064/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1695417064/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1695417064/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1695417064/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1695417064/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2023-09-22T19:39:05</code></th>
 			 <th><code>linux_bad_file_read</code></th>
 			<td><a href="execution/1695411545/example/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1694999965/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1694999965/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1694999965/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-09-18T00:33:53</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.0</code></th>
-			<td><a href="execution/1694997233/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1694997233/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1694997233/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1694997233/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1694997233/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1694997233/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1694997233/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -606,6 +606,10 @@ Test coverage for the report application.
 			 <th><code>linux_bad_file_read</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2023-09-22T21:11:04</code></th>
+			 <th><code>linux_bad_file_read</code></th>
+			<td><a href="ng_coverage/1695417064/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2023-09-22T19:39:05</code></th>
 			 <th><code>linux_bad_file_read</code></th>
 			<td><a href="ng_coverage/1695411545/report/index.html">ng_coverage</a></td>
@@ -681,10 +685,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-09-18T01:19:25</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-4.3.6</code></th>
 			<td><a href="ng_coverage/1694999965/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-09-18T00:33:53</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.0</code></th>
-			<td><a href="ng_coverage/1694997233/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
