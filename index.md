@@ -251,6 +251,23 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-09-25T08:09:21</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1695629361/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-09-25T07:53:22</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1695628402/mutation_report/index.html">mutation</a></td>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-21T11:00:01</code></th>
 			 <th><code>lazy_model_tagging_check</code></th>
 			<td><a href="mutation/1695294001/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-21T10:08:27</code></th>
-			 <th><code>lazy_model_tagging_check</code></th>
-			<td><a href="mutation/1695290907/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
