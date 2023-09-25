@@ -235,8 +235,25 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.3</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.1</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-09-25T01:17:28</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.1</code></th>
+			<td><a href="mutation/1695604648/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-18T01:30:10</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.22.20</code></th>
 			<td><a href="mutation/1695000610/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-18T01:26:44</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.6.2</code></th>
-			<td><a href="mutation/1695000404/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
