@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/example/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-09-25T07:41:18</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1695627678/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1695627678/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1695627678/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1695627678/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1695627678/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1695627678/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1695627678/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-09-25T07:40:08</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.0</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695298569/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695298569/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695298569/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-09-21T10:54:22</code></th>
-			 <th><code>lazy_model_tagging_check</code></th>
-			<td><a href="execution/1695293662/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1695293662/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1695293662/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1695293662/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1695293662/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1695293662/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1695293662/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -603,8 +603,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-09-25T07:41:18</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1695627678/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-09-25T07:40:08</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.0</code></th>
@@ -681,10 +685,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-09-21T12:16:09</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1695298569/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-09-21T10:54:22</code></th>
-			 <th><code>lazy_model_tagging_check</code></th>
-			<td><a href="ng_coverage/1695293662/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
