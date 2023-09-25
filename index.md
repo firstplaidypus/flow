@@ -235,8 +235,25 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.h2database-h2-2.2.224</code></th>
+			 <th><code>dependabot/github_actions/actions/checkout-4.1.0</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-09-25T01:24:41</code></th>
+			 <th><code>dependabot/github_actions/actions/checkout-4.1.0</code></th>
+			<td><a href="mutation/1695605081/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-18T10:23:57</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1695032637/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-18T10:23:19</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1695032599/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
