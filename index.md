@@ -403,8 +403,25 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>report_naming_api</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-09-30T10:06:41</code></th>
+			 <th><code>report_naming_api</code></th>
+			<td><a href="mutation/1696068401/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -728,23 +745,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-22T19:46:54</code></th>
 			 <th><code>linux_bad_file_read</code></th>
 			<td><a href="mutation/1695412014/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-21T15:07:23</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1695308843/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
