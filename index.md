@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.23.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/example/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,24 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-10-02T07:37:16</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1696232236/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1696232236/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1696232236/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1696232236/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1696232236/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1696232236/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1696232236/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -364,24 +382,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695626522/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695626522/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695626522/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-25T07:18:25</code></th>
-			 <th><code>dependabot/maven/com.h2database-h2-2.2.224</code></th>
-			<td><a href="execution/1695626305/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1695626305/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1695626305/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1695626305/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1695626305/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1695626305/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1695626305/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -771,8 +771,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.23.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-10-02T07:37:16</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1696232236/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-10-02T00:45:31</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.23.0</code></th>
@@ -849,10 +853,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-09-25T07:22:02</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.1</code></th>
 			<td><a href="ng_coverage/1695626522/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-09-25T07:18:25</code></th>
-			 <th><code>dependabot/maven/com.h2database-h2-2.2.224</code></th>
-			<td><a href="ng_coverage/1695626305/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
