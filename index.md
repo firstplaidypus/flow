@@ -419,6 +419,23 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-10-02T07:44:52</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1696232692/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-10-02T07:44:11</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1696232651/mutation_report/index.html">mutation</a></td>
@@ -728,23 +745,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-25T01:21:39</code></th>
 			 <th><code>dependabot/maven/com.h2database-h2-2.2.224</code></th>
 			<td><a href="mutation/1695604899/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-25T01:17:28</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.1</code></th>
-			<td><a href="mutation/1695604648/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
