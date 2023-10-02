@@ -419,6 +419,23 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-10-02T07:54:57</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1696233297/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-10-02T07:44:52</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1696232692/mutation_report/index.html">mutation</a></td>
@@ -728,23 +745,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-09-25T01:24:41</code></th>
 			 <th><code>dependabot/github_actions/actions/checkout-4.1.0</code></th>
 			<td><a href="mutation/1695605081/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-25T01:21:39</code></th>
-			 <th><code>dependabot/maven/com.h2database-h2-2.2.224</code></th>
-			<td><a href="mutation/1695604899/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
