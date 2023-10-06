@@ -14,58 +14,44 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>diff_demo_lowercase_only</code></th>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td><a href="execution/latest/assert/assert-core/target/mctf/latest/index.html">assert/assert-core</a></td>
-			<td><a href="execution/latest/example/app-core/target/mctf/latest/index.html">example/app-core</a></td>
-			<td><a href="execution/latest/example/app-histogram/target/mctf/latest/index.html">example/app-histogram</a></td>
-			<td><a href="execution/latest/example/app-itest/target/mctf/latest/index.html">example/app-itest</a></td>
-			<td><a href="execution/latest/example/app-queue/target/mctf/latest/index.html">example/app-queue</a></td>
-			<td><a href="execution/latest/example/app-store/target/mctf/latest/index.html">example/app-store</a></td>
-			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">example/app-ui</a></td>
-			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">example/app-web-ui</a></td>
+			 <th><code>diff_demo</code></th>
+			<td><a href="execution/latest/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/latest/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/latest/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/latest/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/latest/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-10-06T15:01:51</code></th>
+			 <th><code>diff_demo</code></th>
+			<td><a href="execution/1696604511/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1696604511/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1696604511/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1696604511/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1696604511/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1696604511/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1696604511/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-10-06T13:59:12</code></th>
 			 <th><code>diff_demo_lowercase_only</code></th>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td><a href="execution/1696600752/assert/assert-core/target/mctf/latest/index.html">assert/assert-core</a></td>
-			<td><a href="execution/1696600752/example/app-core/target/mctf/latest/index.html">example/app-core</a></td>
-			<td><a href="execution/1696600752/example/app-histogram/target/mctf/latest/index.html">example/app-histogram</a></td>
-			<td><a href="execution/1696600752/example/app-itest/target/mctf/latest/index.html">example/app-itest</a></td>
-			<td><a href="execution/1696600752/example/app-queue/target/mctf/latest/index.html">example/app-queue</a></td>
-			<td><a href="execution/1696600752/example/app-store/target/mctf/latest/index.html">example/app-store</a></td>
-			<td><a href="execution/1696600752/example/app-ui/target/mctf/latest/index.html">example/app-ui</a></td>
-			<td><a href="execution/1696600752/example/app-web-ui/target/mctf/latest/index.html">example/app-web-ui</a></td>
+			<td><a href="execution/1696600752/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1696600752/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1696600752/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1696600752/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1696600752/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1696600752/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1696600752/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-10-02T07:42:40</code></th>
 			 <th><code>main</code></th>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td><a href="execution/1696232560/assert/assert-core/target/mctf/latest/index.html">assert/assert-core</a></td>
-			<td><a href="execution/1696232560/example/app-core/target/mctf/latest/index.html">example/app-core</a></td>
-			<td><a href="execution/1696232560/example/app-histogram/target/mctf/latest/index.html">example/app-histogram</a></td>
-			<td><a href="execution/1696232560/example/app-itest/target/mctf/latest/index.html">example/app-itest</a></td>
-			<td><a href="execution/1696232560/example/app-queue/target/mctf/latest/index.html">example/app-queue</a></td>
-			<td><a href="execution/1696232560/example/app-store/target/mctf/latest/index.html">example/app-store</a></td>
-			<td><a href="execution/1696232560/example/app-ui/target/mctf/latest/index.html">example/app-ui</a></td>
-			<td><a href="execution/1696232560/example/app-web-ui/target/mctf/latest/index.html">example/app-web-ui</a></td>
+			<td><a href="execution/1696232560/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1696232560/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1696232560/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1696232560/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1696232560/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1696232560/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1696232560/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-10-02T07:37:55</code></th>
 			 <th><code>main</code></th>
@@ -76,14 +62,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1696232275/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1696232275/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1696232275/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-10-02T07:37:16</code></th>
 			 <th><code>main</code></th>
@@ -94,14 +72,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1696232236/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1696232236/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1696232236/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-10-02T00:45:31</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.23.0</code></th>
@@ -112,14 +82,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1696207531/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1696207531/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1696207531/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-10-02T00:39:54</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.8.0</code></th>
@@ -130,14 +92,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1696207194/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1696207194/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1696207194/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-10-02T00:19:51</code></th>
 			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.13.0</code></th>
@@ -148,32 +102,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1696205991/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1696205991/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1696205991/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-30T09:54:58</code></th>
 			 <th><code>report_naming_api</code></th>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td><a href="execution/1696067698/assert/assert-core/target/mctf/latest/index.html">assert/assert-core</a></td>
-			<td><a href="execution/1696067698/example/app-core/target/mctf/latest/index.html">example/app-core</a></td>
-			<td><a href="execution/1696067698/example/app-histogram/target/mctf/latest/index.html">example/app-histogram</a></td>
-			<td><a href="execution/1696067698/example/app-itest/target/mctf/latest/index.html">example/app-itest</a></td>
-			<td><a href="execution/1696067698/example/app-queue/target/mctf/latest/index.html">example/app-queue</a></td>
-			<td><a href="execution/1696067698/example/app-store/target/mctf/latest/index.html">example/app-store</a></td>
-			<td><a href="execution/1696067698/example/app-ui/target/mctf/latest/index.html">example/app-ui</a></td>
-			<td><a href="execution/1696067698/example/app-web-ui/target/mctf/latest/index.html">example/app-web-ui</a></td>
+			<td><a href="execution/1696067698/example/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1696067698/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1696067698/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1696067698/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1696067698/example/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1696067698/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1696067698/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-09-29T17:07:38</code></th>
 			 <th><code>main</code></th>
@@ -184,14 +122,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1696007258/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1696007258/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1696007258/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-29T16:41:37</code></th>
 			 <th><code>actor_fix</code></th>
@@ -202,14 +132,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1696005697/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1696005697/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1696005697/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-25T08:01:19</code></th>
 			 <th><code>main</code></th>
@@ -220,14 +142,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695628879/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695628879/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695628879/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-25T08:00:25</code></th>
 			 <th><code>main</code></th>
@@ -238,14 +152,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695628825/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695628825/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695628825/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-25T07:48:14</code></th>
 			 <th><code>main</code></th>
@@ -256,14 +162,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695628094/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695628094/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695628094/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-25T07:41:18</code></th>
 			 <th><code>main</code></th>
@@ -274,14 +172,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695627678/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695627678/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695627678/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-25T07:40:08</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.0</code></th>
@@ -292,14 +182,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695627608/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695627608/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695627608/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-25T07:38:54</code></th>
 			 <th><code>main</code></th>
@@ -310,14 +192,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695627534/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695627534/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695627534/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-25T07:38:15</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/d3-7.4.1</code></th>
@@ -328,14 +202,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695627495/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695627495/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695627495/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-25T07:33:47</code></th>
 			 <th><code>main</code></th>
@@ -346,14 +212,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695627227/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695627227/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695627227/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr> <th><code>2023-09-25T07:31:57</code></th>
 			 <th><code>main</code></th>
@@ -364,32 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1695627117/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1695627117/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1695627117/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-09-25T07:24:06</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.3</code></th>
-			<td><a href="execution/1695626646/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1695626646/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1695626646/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1695626646/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1695626646/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1695626646/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1695626646/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 	</tbody>
 </table>
@@ -771,8 +603,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>diff_demo_lowercase_only</code></th>
+			 <th><code>diff_demo</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-10-06T15:01:51</code></th>
+			 <th><code>diff_demo</code></th>
+			<td><a href="ng_coverage/1696604511/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-10-06T13:59:12</code></th>
 			 <th><code>diff_demo_lowercase_only</code></th>
@@ -849,10 +685,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-09-25T07:31:57</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1695627117/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-09-25T07:24:06</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.3</code></th>
-			<td><a href="ng_coverage/1695626646/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
