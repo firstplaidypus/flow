@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.0</code></th>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -30,6 +30,24 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/example/app-store/target/mctf/latest/index.html">example/app-store</a></td>
 			<td><a href="execution/latest/example/app-ui/target/mctf/latest/index.html">example/app-ui</a></td>
 			<td><a href="execution/latest/example/app-web-ui/target/mctf/latest/index.html">example/app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-10-09T07:26:43</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.0</code></th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><a href="execution/1696836403/assert/assert-core/target/mctf/latest/index.html">assert/assert-core</a></td>
+			<td><a href="execution/1696836403/example/app-core/target/mctf/latest/index.html">example/app-core</a></td>
+			<td><a href="execution/1696836403/example/app-histogram/target/mctf/latest/index.html">example/app-histogram</a></td>
+			<td><a href="execution/1696836403/example/app-itest/target/mctf/latest/index.html">example/app-itest</a></td>
+			<td><a href="execution/1696836403/example/app-queue/target/mctf/latest/index.html">example/app-queue</a></td>
+			<td><a href="execution/1696836403/example/app-store/target/mctf/latest/index.html">example/app-store</a></td>
+			<td><a href="execution/1696836403/example/app-ui/target/mctf/latest/index.html">example/app-ui</a></td>
+			<td><a href="execution/1696836403/example/app-web-ui/target/mctf/latest/index.html">example/app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-10-09T07:25:27</code></th>
 			 <th><code>main</code></th>
@@ -373,24 +391,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td></td>
 			<td></td>
 		</tr>
-		<tr> <th><code>2023-10-02T00:39:54</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.8.0</code></th>
-			<td><a href="execution/1696207194/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1696207194/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1696207194/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1696207194/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1696207194/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1696207194/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1696207194/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -498,8 +498,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.0</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-10-09T07:26:43</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.0</code></th>
+			<td><a href="ng_coverage/1696836403/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-10-09T07:25:27</code></th>
 			 <th><code>main</code></th>
@@ -576,10 +580,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-10-02T00:45:31</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.23.0</code></th>
 			<td><a href="ng_coverage/1696207531/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-10-02T00:39:54</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.8.0</code></th>
-			<td><a href="ng_coverage/1696207194/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
