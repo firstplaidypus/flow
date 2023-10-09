@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>diff_demo</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,24 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-10-09T14:40:38</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1696862438/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1696862438/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1696862438/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1696862438/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1696862438/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1696862438/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1696862438/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -364,24 +382,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1696600752/example/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1696600752/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1696600752/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-02T07:42:40</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1696232560/example/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1696232560/example/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1696232560/example/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1696232560/example/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1696232560/example/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1696232560/example/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1696232560/example/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -792,8 +792,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>diff_demo</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-10-09T14:40:38</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1696862438/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-10-09T13:34:32</code></th>
 			 <th><code>diff_demo</code></th>
@@ -870,10 +874,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-10-06T13:59:12</code></th>
 			 <th><code>diff_demo_lowercase_only</code></th>
 			<td><a href="ng_coverage/1696600752/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-10-02T07:42:40</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1696232560/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
