@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$2(Ljava/lang/Object;Ljava/util/List;I)V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$2(Ljava/lang/Object;Ljava/util/List;I)V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$2(Ljava/lang/Object;Ljava/util/List;I)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$1(Ljava/lang/Object;Ljava/util/Map;Ljava/lang/String;)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$2(Ljava/lang/Object;Ljava/util/List;I)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$1(Ljava/lang/Object;Ljava/util/Map;Ljava/lang/String;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$1(Ljava/lang/Object;Ljava/util/Map;Ljava/lang/String;)V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$1(Ljava/lang/Object;Ljava/util/Map;Ljava/lang/String;)V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$2(Ljava/lang/Object;Ljava/util/List;I)V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$1(Ljava/lang/Object;Ljava/util/Map;Ljava/lang/String;)V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$2(Ljava/lang/Object;Ljava/util/List;I)V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$data$1(Ljava/lang/Object;Ljava/util/Map;Ljava/lang/String;)V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:emptyStructureTokens()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='validateValueType(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='validateValueType(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='validateValueType(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='validateValueType(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json$1' method='&lt;init&gt;()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json$1' method='&lt;init&gt;()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;clinit&gt;()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='fields()Ljava/util/Set;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json$2' method='&lt;init&gt;()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='fields()Ljava/util/Set;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='fields()Ljava/util/Set;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json$2' method='&lt;init&gt;()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='fields()Ljava/util/Set;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='18'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='19'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='16'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='17'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='22'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='23'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='20'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='21'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='asHuman()Ljava/lang/String;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='asHuman()Ljava/lang/String;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='asHuman()Ljava/lang/String;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='15'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:emptyStructureTokens()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='24'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='delete()V' number='25'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;init&gt;()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;init&gt;()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$fields$5(Ljava/util/Set;Ljava/lang/String;Ljava/lang/Object;)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$fields$5(Ljava/util/Set;Ljava/lang/String;Ljava/lang/Object;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='traverse(Ljava/lang/Object;Ljava/lang/String;ZLjava/util/function/BiConsumer;Ljava/util/function/ObjIntConsumer;)Ljava/lang/Object;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='value(Lcom/mastercard/test/flow/msg/AbstractMessage$Update;)Ljava/lang/Object;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='value(Lcom/mastercard/test/flow/msg/AbstractMessage$Update;)Ljava/lang/Object;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='value(Lcom/mastercard/test/flow/msg/AbstractMessage$Update;)Ljava/lang/Object;' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='value(Lcom/mastercard/test/flow/msg/AbstractMessage$Update;)Ljava/lang/Object;' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;init&gt;(Ljava/util/function/Supplier;)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;init&gt;(Ljava/util/function/Supplier;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='data()Ljava/lang/Object;' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='content()[B' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='content()[B' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='content()[B' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:delete()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$access$3(Ljava/util/concurrent/atomic/AtomicReference;Ljava/util/Map;Ljava/lang/String;)V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$access$3(Ljava/util/concurrent/atomic/AtomicReference;Ljava/util/Map;Ljava/lang/String;)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$access$3(Ljava/util/concurrent/atomic/AtomicReference;Ljava/util/Map;Ljava/lang/String;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='22'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='21'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='20'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='15'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='19'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='18'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='17'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='16'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='object()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:object()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest$1' method='&lt;init&gt;(Lcom/mastercard/test/flow/msg/json/JsonTest;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest$1' method='&lt;init&gt;(Lcom/mastercard/test/flow/msg/json/JsonTest;)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='lambda$badContent$5(Lcom/mastercard/test/flow/msg/json/Json;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest$1' method='validateValueType(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badContent()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badContent()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badContent()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badContent()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badContent()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badContent()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='lambda$badContent$4(Lcom/mastercard/test/flow/msg/json/Json;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='asHuman()Ljava/lang/String;' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='asHuman()Ljava/lang/String;' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='asHuman()Ljava/lang/String;' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='asHuman()Ljava/lang/String;' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='asHuman()Ljava/lang/String;' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='asHuman()Ljava/lang/String;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='content()[B' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='content()[B' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='content()[B' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='content()[B' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='content()[B' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='content()[B' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badContent()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='mutableValue()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='mutableValue()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='mutableValue()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='mutableValue()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='lambda$mutableValue$3(Lcom/mastercard/test/flow/Message;Ljava/lang/Object;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:mutableValue()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='22'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='21'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='24'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='23'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='18'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='17'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='20'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='19'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='30'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='29'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='32'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='31'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='26'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='25'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='28'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='27'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='16'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='15'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='34'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='33'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='35'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$new$0([B)Ljava/lang/Object;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$new$0([B)Ljava/lang/Object;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='bare()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;init&gt;([B)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='&lt;init&gt;([B)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:bare()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='17'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='16'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='15'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$access$4(Ljava/util/concurrent/atomic/AtomicReference;Ljava/util/List;I)V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$access$4(Ljava/util/concurrent/atomic/AtomicReference;Ljava/util/List;I)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='24'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='23'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='22'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='21'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='20'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$access$4(Ljava/util/concurrent/atomic/AtomicReference;Ljava/util/List;I)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='19'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='array()V' number='18'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:array()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='validateValueType(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='16'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='15'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='18'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='17'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='20'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='19'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='22'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='21'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='value(Lcom/mastercard/test/flow/msg/AbstractMessage$Update;)Ljava/lang/Object;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='value(Lcom/mastercard/test/flow/msg/AbstractMessage$Update;)Ljava/lang/Object;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='value(Lcom/mastercard/test/flow/msg/AbstractMessage$Update;)Ljava/lang/Object;' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='value(Lcom/mastercard/test/flow/msg/AbstractMessage$Update;)Ljava/lang/Object;' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='child()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='child()Lcom/mastercard/test/flow/msg/json/Json;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='child()Lcom/mastercard/test/flow/msg/json/Json;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='child()Lcom/mastercard/test/flow/msg/json/Json;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='empty()V' number='15'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:empty()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='emptyStructureTokens()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:emptyStructureTokens()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json$1' method='toString()Ljava/lang/String;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:emptyStructureTokens()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='emptyStructureTokens()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:emptyStructureTokens()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='emptyStructureTokens()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:emptyStructureTokens()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='emptyStructureTokens()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:emptyStructureTokens()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json$2' method='toString()Ljava/lang/String;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:emptyStructureTokens()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='emptyStructureTokens()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:emptyStructureTokens()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='masking()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='lambda$masking$2(Lcom/mastercard/test/flow/msg/Mask;)Lcom/mastercard/test/flow/msg/Mask;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='lambda$masking$2(Lcom/mastercard/test/flow/msg/Mask;)Lcom/mastercard/test/flow/msg/Mask;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='peer([B)Lcom/mastercard/test/flow/msg/json/Json;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='peer([B)Lcom/mastercard/test/flow/msg/json/Json;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='peer([B)Lcom/mastercard/test/flow/msg/json/Json;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:masking()]'/>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='nibling()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:nibling()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$new$0([B)Ljava/lang/Object;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='lambda$badInput$0(Lcom/mastercard/test/flow/msg/json/Json;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badInput()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badInput()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badInput()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badInput()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$new$0([B)Ljava/lang/Object;' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$new$0([B)Ljava/lang/Object;' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$new$0([B)Ljava/lang/Object;' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badInput()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.Json' method='lambda$new$0([B)Ljava/lang/Object;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.json.JsonTest' method='badInput()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.json.JsonTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.json.JsonTest]/[method:badInput()]'/>
+</tests>
+</block>
+</coverage>
