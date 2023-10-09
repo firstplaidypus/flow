@@ -406,6 +406,10 @@ Test quality metrics for framework packages.
 			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2023-10-09T07:37:22</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1696837042/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2023-10-09T07:31:20</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1696836680/mutation_report/index.html">mutation</a></td>
@@ -481,10 +485,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-02T00:26:40</code></th>
 			 <th><code>dependabot/maven/org.seleniumhq.selenium-selenium-java-4.13.0</code></th>
 			<td><a href="mutation/1696206400/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-09-30T10:06:41</code></th>
-			 <th><code>report_naming_api</code></th>
-			<td><a href="mutation/1696068401/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
