@@ -403,8 +403,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>doc_tweaks</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-10-13T09:06:26</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1697187986/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -747,24 +765,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-09T01:11:34</code></th>
 			 <th><code>dependabot/github_actions/stefanzweifel/git-auto-commit-action-5.0.0</code></th>
 			<td><a href="mutation/1696813894/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-09T01:10:27</code></th>
-			 <th><code>dependabot/github_actions/step-security/harden-runner-2.6.0</code></th>
-			<td><a href="mutation/1696813827/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
