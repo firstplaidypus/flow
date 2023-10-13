@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>link_fix</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,24 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-10-13T15:39:32</code></th>
+			 <th><code>link_fix</code></th>
+			<td><a href="execution/1697211572/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1697211572/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1697211572/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1697211572/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1697211572/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1697211572/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1697211572/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -372,24 +390,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1696813545/example/app-store/target/mctf/latest/index.html">example/app-store</a></td>
 			<td><a href="execution/1696813545/example/app-ui/target/mctf/latest/index.html">example/app-ui</a></td>
 			<td><a href="execution/1696813545/example/app-web-ui/target/mctf/latest/index.html">example/app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-10-09T01:04:10</code></th>
-			 <th><code>dependabot/github_actions/stefanzweifel/git-auto-commit-action-5.0.0</code></th>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td><a href="execution/1696813450/assert/assert-core/target/mctf/latest/index.html">assert/assert-core</a></td>
-			<td><a href="execution/1696813450/example/app-core/target/mctf/latest/index.html">example/app-core</a></td>
-			<td><a href="execution/1696813450/example/app-histogram/target/mctf/latest/index.html">example/app-histogram</a></td>
-			<td><a href="execution/1696813450/example/app-itest/target/mctf/latest/index.html">example/app-itest</a></td>
-			<td><a href="execution/1696813450/example/app-queue/target/mctf/latest/index.html">example/app-queue</a></td>
-			<td><a href="execution/1696813450/example/app-store/target/mctf/latest/index.html">example/app-store</a></td>
-			<td><a href="execution/1696813450/example/app-ui/target/mctf/latest/index.html">example/app-ui</a></td>
-			<td><a href="execution/1696813450/example/app-web-ui/target/mctf/latest/index.html">example/app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -792,8 +792,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>link_fix</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-10-13T15:39:32</code></th>
+			 <th><code>link_fix</code></th>
+			<td><a href="ng_coverage/1697211572/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-10-13T08:53:50</code></th>
 			 <th><code>main</code></th>
@@ -870,10 +874,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-10-09T01:05:45</code></th>
 			 <th><code>dependabot/github_actions/step-security/harden-runner-2.6.0</code></th>
 			<td><a href="ng_coverage/1696813545/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-10-09T01:04:10</code></th>
-			 <th><code>dependabot/github_actions/stefanzweifel/git-auto-commit-action-5.0.0</code></th>
-			<td><a href="ng_coverage/1696813450/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
