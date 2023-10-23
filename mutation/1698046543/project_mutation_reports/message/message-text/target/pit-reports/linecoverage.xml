@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='fields()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='&lt;init&gt;(Ljava/lang/String;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='fields()Ljava/util/Set;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='&lt;init&gt;(Ljava/lang/String;)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='fields()Ljava/util/Set;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='fields()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='fields()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='fields()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='fields()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:fields()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='lambda$new$0(Ljava/lang/String;)Ljava/lang/String;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='get()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='get()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='get()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='get()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='get()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='get()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='get()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='get()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='access(Ljava/lang/String;)Ljava/lang/Object;' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:get()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='15'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='asHuman()Ljava/lang/String;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='asHuman()Ljava/lang/String;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='set()V' number='16'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='build()Ljava/lang/String;' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:set()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='utf8()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='utf8()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='utf8()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='&lt;init&gt;([B)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='utf8()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='&lt;init&gt;([B)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='&lt;init&gt;([B)V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:utf8()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='&lt;init&gt;(Lcom/mastercard/test/flow/msg/txt/Text;)V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='&lt;init&gt;(Lcom/mastercard/test/flow/msg/txt/Text;)V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='&lt;init&gt;(Lcom/mastercard/test/flow/msg/txt/Text;)V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='15'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='16'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='child()Lcom/mastercard/test/flow/msg/txt/Text;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='child()Lcom/mastercard/test/flow/msg/txt/Text;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='child()Lcom/mastercard/test/flow/msg/txt/Text;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='child()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:child()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='lambda$masks$1(Lcom/mastercard/test/flow/msg/Mask;)Lcom/mastercard/test/flow/msg/Mask;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='lambda$masks$1(Lcom/mastercard/test/flow/msg/Mask;)Lcom/mastercard/test/flow/msg/Mask;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='peer([B)Lcom/mastercard/test/flow/msg/txt/Text;' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='peer([B)Lcom/mastercard/test/flow/msg/txt/Text;' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='peer([B)Lcom/mastercard/test/flow/msg/txt/Text;' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='4'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='6'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='5'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='8'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='7'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='10'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='9'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='12'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='11'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='14'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='13'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='16'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='15'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='masks()V' number='17'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:masks()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='content()[B' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='content()[B' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='content()V' number='0'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='content()V' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='content()V' number='1'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.TextTest' method='content()V' number='3'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+</tests>
+</block>
+<block classname='com.mastercard.test.flow.msg.txt.Text' method='content()[B' number='2'><tests>
+<test name='com.mastercard.test.flow.msg.txt.TextTest.[engine:junit-jupiter]/[class:com.mastercard.test.flow.msg.txt.TextTest]/[method:content()]'/>
+</tests>
+</block>
+</coverage>
