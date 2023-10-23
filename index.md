@@ -252,6 +252,24 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-10-23T08:10:07</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1698048607/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-10-23T07:58:41</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1698047921/mutation_report/index.html">mutation</a></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-16T08:08:01</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1697443681/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-16T01:29:45</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.23.2</code></th>
-			<td><a href="mutation/1697419785/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
