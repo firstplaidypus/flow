@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.6.0</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-10-30T09:31:35</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.6.0</code></th>
+			<td><a href="execution/1698658295/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1698658295/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1698658295/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1698658295/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1698658295/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1698658295/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1698658295/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-10-30T09:12:51</code></th>
 			 <th><code>main</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1698598588/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1698598588/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1698598588/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-10-29T12:05:17</code></th>
-			 <th><code>duct</code></th>
-			<td><a href="execution/1698581117/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1698581117/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1698581117/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1698581117/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1698581117/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1698581117/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1698581117/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -603,8 +603,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.6.0</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-10-30T09:31:35</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.6.0</code></th>
+			<td><a href="ng_coverage/1698658295/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-10-30T09:12:51</code></th>
 			 <th><code>main</code></th>
@@ -681,10 +685,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-10-29T16:56:28</code></th>
 			 <th><code>duct</code></th>
 			<td><a href="ng_coverage/1698598588/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-10-29T12:05:17</code></th>
-			 <th><code>duct</code></th>
-			<td><a href="ng_coverage/1698581117/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
