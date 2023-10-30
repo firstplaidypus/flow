@@ -235,8 +235,25 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>duct</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-10-30T11:23:58</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1698665038/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-30T00:36:49</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-junit5-plugin-1.2.1</code></th>
 			<td><a href="mutation/1698626209/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-30T00:36:04</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.2</code></th>
-			<td><a href="mutation/1698626164/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
