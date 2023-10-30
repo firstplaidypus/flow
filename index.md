@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.4</code></th>
+			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.1</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-10-30T08:53:39</code></th>
+			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.1</code></th>
+			<td><a href="execution/1698656019/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1698656019/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1698656019/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1698656019/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1698656019/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1698656019/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1698656019/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-10-30T08:52:54</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.4</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1698533195/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1698533195/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1698533195/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-10-28T19:44:14</code></th>
-			 <th><code>duct</code></th>
-			<td><a href="execution/1698522254/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1698522254/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1698522254/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1698522254/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1698522254/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1698522254/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1698522254/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -624,8 +624,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.4</code></th>
+			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.1</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-10-30T08:53:39</code></th>
+			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.1</code></th>
+			<td><a href="ng_coverage/1698656019/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-10-30T08:52:54</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.4</code></th>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-10-28T22:46:35</code></th>
 			 <th><code>duct</code></th>
 			<td><a href="ng_coverage/1698533195/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-10-28T19:44:14</code></th>
-			 <th><code>duct</code></th>
-			<td><a href="ng_coverage/1698522254/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
