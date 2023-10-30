@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-junit5-plugin-1.2.1</code></th>
+			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.1</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-10-30T00:41:27</code></th>
+			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.1</code></th>
+			<td><a href="mutation/1698626487/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-19T10:37:29</code></th>
 			 <th><code>system_diagram_styling</code></th>
 			<td><a href="mutation/1697711849/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-19T10:13:11</code></th>
-			 <th><code>system_diagram_styling</code></th>
-			<td><a href="mutation/1697710391/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
