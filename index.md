@@ -251,6 +251,23 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-10-30T09:18:43</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1698657523/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-10-30T09:00:46</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1698656446/mutation_report/index.html">mutation</a></td>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-23T07:58:41</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1698047921/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-23T07:42:56</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.1</code></th>
-			<td><a href="mutation/1698046976/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
