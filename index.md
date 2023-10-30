@@ -252,6 +252,24 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-10-30T08:51:42</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1698655902/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-10-30T08:48:59</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1698655739/mutation_report/index.html">mutation</a></td>
@@ -593,24 +611,6 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-23T07:35:43</code></th>
-			 <th><code>dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.11</code></th>
-			<td></td>
-			<td><a href="mutation/1698046543/mutation_report/index.html">mutation_report</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/api/target/pit-reports/index.html">project_mutation_reports/api/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/builder/target/pit-reports/index.html">project_mutation_reports/builder/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/message/message-core/target/pit-reports/index.html">project_mutation_reports/message/message-core/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/message/message-http/target/pit-reports/index.html">project_mutation_reports/message/message-http/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/message/message-json/target/pit-reports/index.html">project_mutation_reports/message/message-json/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/message/message-sql/target/pit-reports/index.html">project_mutation_reports/message/message-sql/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/message/message-text/target/pit-reports/index.html">project_mutation_reports/message/message-text/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/message/message-web/target/pit-reports/index.html">project_mutation_reports/message/message-web/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/message/message-xml/target/pit-reports/index.html">project_mutation_reports/message/message-xml/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/model/target/pit-reports/index.html">project_mutation_reports/model/target/pit-reports</a></td>
-			<td></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
-			<td><a href="mutation/1698046543/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
 		</tr>
 	</tbody>
 </table>
