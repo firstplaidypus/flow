@@ -236,20 +236,37 @@ Test quality metrics for framework packages.
 	<tbody>
 		<tr> <th><code>latest</code></th>
 			 <th><code>duct</code></th>
+			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 			<td></td>
-			<td><a href="mutation/latest/mutation_report/index.html">mutation_report</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/api/target/pit-reports/index.html">project_mutation_reports/api/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/builder/target/pit-reports/index.html">project_mutation_reports/builder/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-core/target/pit-reports/index.html">project_mutation_reports/message/message-core/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-http/target/pit-reports/index.html">project_mutation_reports/message/message-http/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-json/target/pit-reports/index.html">project_mutation_reports/message/message-json/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-sql/target/pit-reports/index.html">project_mutation_reports/message/message-sql/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-text/target/pit-reports/index.html">project_mutation_reports/message/message-text/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-web/target/pit-reports/index.html">project_mutation_reports/message/message-web/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/message/message-xml/target/pit-reports/index.html">project_mutation_reports/message/message-xml/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/model/target/pit-reports/index.html">project_mutation_reports/model/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
-			<td><a href="mutation/latest/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-10-30T10:53:03</code></th>
+			 <th><code>duct</code></th>
+			<td><a href="mutation/1698663183/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-10-30T10:40:38</code></th>
 			 <th><code>duct</code></th>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-30T00:36:04</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.2</code></th>
 			<td><a href="mutation/1698626164/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-29T17:57:56</code></th>
-			 <th><code>duct</code></th>
-			<td><a href="mutation/1698602276/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
