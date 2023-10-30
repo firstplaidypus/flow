@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.1</code></th>
+			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.14.2</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-10-30T00:43:59</code></th>
+			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.14.2</code></th>
+			<td><a href="mutation/1698626639/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-19T11:10:22</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1697713822/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-19T10:37:29</code></th>
-			 <th><code>system_diagram_styling</code></th>
-			<td><a href="mutation/1697711849/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
