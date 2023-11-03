@@ -251,6 +251,23 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-11-03T08:15:42</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1698999342/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-11-02T09:08:53</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1698916133/mutation_report/index.html">mutation</a></td>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-30T00:44:45</code></th>
 			 <th><code>dependabot/github_actions/actions/setup-node-4.0.0</code></th>
 			<td><a href="mutation/1698626685/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-30T00:43:59</code></th>
-			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.14.2</code></th>
-			<td><a href="mutation/1698626639/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
