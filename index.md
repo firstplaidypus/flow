@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2023-11-03T08:13:35</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1698999215/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1698999215/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1698999215/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1698999215/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1698999215/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1698999215/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1698999215/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2023-11-02T08:54:33</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1698915273/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1698626418/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1698626418/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1698626418/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-10-30T00:33:05</code></th>
-			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.14.2</code></th>
-			<td><a href="execution/1698625985/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1698625985/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1698625985/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1698625985/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1698625985/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1698625985/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1698625985/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -606,6 +606,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2023-11-03T08:13:35</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1698999215/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2023-11-02T08:54:33</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1698915273/report/index.html">ng_coverage</a></td>
@@ -681,10 +685,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-10-30T00:40:18</code></th>
 			 <th><code>dependabot/github_actions/actions/setup-node-4.0.0</code></th>
 			<td><a href="ng_coverage/1698626418/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-10-30T00:33:05</code></th>
-			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.14.2</code></th>
-			<td><a href="ng_coverage/1698625985/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
