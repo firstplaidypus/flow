@@ -235,25 +235,60 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.2</code></th>
 			<td></td>
+			<td><a href="mutation/latest/mutation_report/index.html">mutation_report</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/aggregator/target/pit-reports/index.html">project_mutation_reports/aggregator/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/api/target/pit-reports/index.html">project_mutation_reports/api/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/assert/assert-core/target/pit-reports/index.html">project_mutation_reports/assert/assert-core/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/assert/assert-filter/target/pit-reports/index.html">project_mutation_reports/assert/assert-filter/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/assert/assert-junit5/target/pit-reports/index.html">project_mutation_reports/assert/assert-junit5/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/builder/target/pit-reports/index.html">project_mutation_reports/builder/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-core/target/pit-reports/index.html">project_mutation_reports/message/message-core/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-http/target/pit-reports/index.html">project_mutation_reports/message/message-http/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-json/target/pit-reports/index.html">project_mutation_reports/message/message-json/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-sql/target/pit-reports/index.html">project_mutation_reports/message/message-sql/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-text/target/pit-reports/index.html">project_mutation_reports/message/message-text/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-web/target/pit-reports/index.html">project_mutation_reports/message/message-web/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-xml/target/pit-reports/index.html">project_mutation_reports/message/message-xml/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/model/target/pit-reports/index.html">project_mutation_reports/model/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/report/duct/target/pit-reports/index.html">project_mutation_reports/report/duct/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/report/report-core/target/pit-reports/index.html">project_mutation_reports/report/report-core/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
+		</tr>
+		<tr> <th><code>2023-11-13T09:34:52</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.2</code></th>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td><a href="mutation/1699868092/mutation_report/index.html">mutation_report</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/aggregator/target/pit-reports/index.html">project_mutation_reports/aggregator/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/api/target/pit-reports/index.html">project_mutation_reports/api/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/assert/assert-core/target/pit-reports/index.html">project_mutation_reports/assert/assert-core/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/assert/assert-filter/target/pit-reports/index.html">project_mutation_reports/assert/assert-filter/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/assert/assert-junit5/target/pit-reports/index.html">project_mutation_reports/assert/assert-junit5/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/builder/target/pit-reports/index.html">project_mutation_reports/builder/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/message/message-core/target/pit-reports/index.html">project_mutation_reports/message/message-core/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/message/message-http/target/pit-reports/index.html">project_mutation_reports/message/message-http/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/message/message-json/target/pit-reports/index.html">project_mutation_reports/message/message-json/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/message/message-sql/target/pit-reports/index.html">project_mutation_reports/message/message-sql/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/message/message-text/target/pit-reports/index.html">project_mutation_reports/message/message-text/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/message/message-web/target/pit-reports/index.html">project_mutation_reports/message/message-web/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/message/message-xml/target/pit-reports/index.html">project_mutation_reports/message/message-xml/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/model/target/pit-reports/index.html">project_mutation_reports/model/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/report/duct/target/pit-reports/index.html">project_mutation_reports/report/duct/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/report/report-core/target/pit-reports/index.html">project_mutation_reports/report/report-core/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
+			<td><a href="mutation/1699868092/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
 		</tr>
 		<tr> <th><code>2023-11-13T09:32:09</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1699867929/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -284,10 +319,22 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-11-13T01:40:42</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.5</code></th>
 			<td><a href="mutation/1699839642/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -318,10 +365,22 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-11-13T01:39:03</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.2</code></th>
 			<td><a href="mutation/1699839543/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -352,10 +411,22 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-11-13T01:08:48</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.2.2</code></th>
 			<td><a href="mutation/1699837728/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -386,10 +457,22 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-11-06T09:20:32</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1699262432/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -408,7 +491,11 @@ Test quality metrics for framework packages.
 			 <th><code>dependabot/maven/io.github.bonigarcia-webdrivermanager-5.6.1</code></th>
 			<td></td>
 			<td><a href="mutation/1699260445/mutation_report/index.html">mutation_report</a></td>
+			<td></td>
 			<td><a href="mutation/1699260445/project_mutation_reports/api/target/pit-reports/index.html">project_mutation_reports/api/target/pit-reports</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td><a href="mutation/1699260445/project_mutation_reports/builder/target/pit-reports/index.html">project_mutation_reports/builder/target/pit-reports</a></td>
 			<td><a href="mutation/1699260445/project_mutation_reports/message/message-core/target/pit-reports/index.html">project_mutation_reports/message/message-core/target/pit-reports</a></td>
 			<td><a href="mutation/1699260445/project_mutation_reports/message/message-http/target/pit-reports/index.html">project_mutation_reports/message/message-http/target/pit-reports</a></td>
@@ -418,12 +505,20 @@ Test quality metrics for framework packages.
 			<td><a href="mutation/1699260445/project_mutation_reports/message/message-web/target/pit-reports/index.html">project_mutation_reports/message/message-web/target/pit-reports</a></td>
 			<td><a href="mutation/1699260445/project_mutation_reports/message/message-xml/target/pit-reports/index.html">project_mutation_reports/message/message-xml/target/pit-reports</a></td>
 			<td><a href="mutation/1699260445/project_mutation_reports/model/target/pit-reports/index.html">project_mutation_reports/model/target/pit-reports</a></td>
+			<td></td>
+			<td></td>
 			<td><a href="mutation/1699260445/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
 			<td><a href="mutation/1699260445/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
 		</tr>
 		<tr> <th><code>2023-11-06T08:44:36</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1699260276/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -454,10 +549,22 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-11-06T01:31:33</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.8.10</code></th>
 			<td><a href="mutation/1699234293/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -488,10 +595,22 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-11-03T08:15:42</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1698999342/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -522,10 +641,22 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-11-02T08:42:12</code></th>
 			 <th><code>linux_open_fix</code></th>
 			<td><a href="mutation/1698914532/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -556,6 +687,12 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2023-10-30T10:53:03</code></th>
 			 <th><code>duct</code></th>
@@ -573,23 +710,12 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-30T10:40:38</code></th>
-			 <th><code>duct</code></th>
 			<td></td>
-			<td><a href="mutation/1698662438/mutation_report/index.html">mutation_report</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/api/target/pit-reports/index.html">project_mutation_reports/api/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/builder/target/pit-reports/index.html">project_mutation_reports/builder/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/message/message-core/target/pit-reports/index.html">project_mutation_reports/message/message-core/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/message/message-http/target/pit-reports/index.html">project_mutation_reports/message/message-http/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/message/message-json/target/pit-reports/index.html">project_mutation_reports/message/message-json/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/message/message-sql/target/pit-reports/index.html">project_mutation_reports/message/message-sql/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/message/message-text/target/pit-reports/index.html">project_mutation_reports/message/message-text/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/message/message-web/target/pit-reports/index.html">project_mutation_reports/message/message-web/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/message/message-xml/target/pit-reports/index.html">project_mutation_reports/message/message-xml/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/model/target/pit-reports/index.html">project_mutation_reports/model/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
-			<td><a href="mutation/1698662438/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
