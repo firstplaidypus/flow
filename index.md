@@ -257,6 +257,29 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-11-13T10:03:54</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1699869834/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-11-13T10:00:33</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1699869633/mutation_report/index.html">mutation</a></td>
@@ -674,29 +697,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-11-06T01:20:27</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.3</code></th>
 			<td><a href="mutation/1699233627/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-11-03T08:15:42</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1698999342/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
