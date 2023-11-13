@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2023-11-13T09:53:15</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1699869195/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1699869195/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1699869195/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1699869195/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1699869195/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1699869195/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1699869195/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2023-11-13T09:52:09</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1699869129/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1699233024/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1699233024/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1699233024/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-11-06T01:06:35</code></th>
-			 <th><code>dependabot/maven/io.github.bonigarcia-webdrivermanager-5.6.1</code></th>
-			<td><a href="execution/1699232795/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1699232795/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1699232795/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1699232795/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1699232795/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1699232795/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1699232795/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -732,6 +732,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2023-11-13T09:53:15</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1699869195/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2023-11-13T09:52:09</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1699869129/report/index.html">ng_coverage</a></td>
@@ -807,10 +811,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-11-06T01:10:24</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.3</code></th>
 			<td><a href="ng_coverage/1699233024/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-11-06T01:06:35</code></th>
-			 <th><code>dependabot/maven/io.github.bonigarcia-webdrivermanager-5.6.1</code></th>
-			<td><a href="ng_coverage/1699232795/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
