@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.junit-junit-bom-5.10.1</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-11-13T09:22:01</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1699867321/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1699867321/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1699867321/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1699867321/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1699867321/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1699867321/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1699867321/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-11-13T09:15:26</code></th>
 			 <th><code>dependabot/maven/org.junit-junit-bom-5.10.1</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1698659480/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1698659480/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1698659480/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-10-30T09:43:43</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1698659023/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1698659023/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1698659023/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1698659023/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1698659023/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1698659023/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1698659023/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -603,8 +603,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.junit-junit-bom-5.10.1</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-11-13T09:22:01</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1699867321/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-11-13T09:15:26</code></th>
 			 <th><code>dependabot/maven/org.junit-junit-bom-5.10.1</code></th>
@@ -681,10 +685,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-10-30T09:51:20</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1698659480/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-10-30T09:43:43</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1698659023/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
