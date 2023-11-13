@@ -235,8 +235,25 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.2.2</code></th>
+			 <th><code>dependabot/maven/org.junit-junit-bom-5.10.1</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-11-13T01:15:27</code></th>
+			 <th><code>dependabot/maven/org.junit-junit-bom-5.10.1</code></th>
+			<td><a href="mutation/1699838127/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -560,23 +577,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-10-30T09:18:43</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1698657523/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-10-30T09:00:46</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1698656446/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
