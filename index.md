@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.16.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-11-20T09:21:01</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1700472061/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1700472061/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1700472061/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1700472061/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1700472061/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1700472061/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1700472061/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-11-20T09:09:56</code></th>
 			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.16.0</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1699867321/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1699867321/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1699867321/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-11-13T09:15:26</code></th>
-			 <th><code>dependabot/maven/org.junit-junit-bom-5.10.1</code></th>
-			<td><a href="execution/1699866926/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1699866926/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1699866926/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1699866926/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1699866926/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1699866926/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1699866926/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -729,8 +729,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.16.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-11-20T09:21:01</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1700472061/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-11-20T09:09:56</code></th>
 			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.16.0</code></th>
@@ -807,10 +811,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-11-13T09:22:01</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1699867321/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-11-13T09:15:26</code></th>
-			 <th><code>dependabot/maven/org.junit-junit-bom-5.10.1</code></th>
-			<td><a href="ng_coverage/1699866926/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
