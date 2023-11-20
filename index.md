@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2023-11-20T08:52:09</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1700470329/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1700470329/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1700470329/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1700470329/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1700470329/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1700470329/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1700470329/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2023-11-20T08:50:16</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1700470216/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1699842115/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1699842115/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1699842115/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-11-13T01:29:46</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.2</code></th>
-			<td><a href="execution/1699838986/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1699838986/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1699838986/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1699838986/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1699838986/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1699838986/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1699838986/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -732,6 +732,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2023-11-20T08:52:09</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1700470329/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2023-11-20T08:50:16</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1700470216/report/index.html">ng_coverage</a></td>
@@ -807,10 +811,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-11-13T02:21:55</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.5</code></th>
 			<td><a href="ng_coverage/1699842115/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-11-13T01:29:46</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.2</code></th>
-			<td><a href="ng_coverage/1699838986/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
