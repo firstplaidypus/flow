@@ -257,6 +257,29 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2023-11-20T09:48:18</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1700473698/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2023-11-20T09:26:46</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1700472406/mutation_report/index.html">mutation</a></td>
@@ -674,29 +697,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-11-13T09:26:05</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1699867565/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-11-13T01:40:42</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/dompurify-3.0.5</code></th>
-			<td><a href="mutation/1699839642/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
