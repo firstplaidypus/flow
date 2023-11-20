@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.9.2</code></th>
+			 <th><code>dependabot/github_actions/step-security/harden-runner-2.6.1</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-11-20T01:09:11</code></th>
+			 <th><code>dependabot/github_actions/step-security/harden-runner-2.6.1</code></th>
+			<td><a href="execution/1700442551/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1700442551/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1700442551/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1700442551/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1700442551/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1700442551/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1700442551/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-11-20T01:03:24</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.9.2</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1699837426/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1699837426/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1699837426/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-11-13T01:00:55</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.2</code></th>
-			<td><a href="execution/1699837255/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1699837255/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1699837255/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1699837255/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1699837255/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1699837255/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1699837255/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -729,8 +729,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.9.2</code></th>
+			 <th><code>dependabot/github_actions/step-security/harden-runner-2.6.1</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-11-20T01:09:11</code></th>
+			 <th><code>dependabot/github_actions/step-security/harden-runner-2.6.1</code></th>
+			<td><a href="ng_coverage/1700442551/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-11-20T01:03:24</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.9.2</code></th>
@@ -807,10 +811,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-11-13T01:03:46</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.2.2</code></th>
 			<td><a href="ng_coverage/1699837426/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-11-13T01:00:55</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.2</code></th>
-			<td><a href="ng_coverage/1699837255/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
