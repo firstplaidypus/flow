@@ -235,8 +235,31 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>doc_automation</code></th>
+			 <th><code>usage_diagram_improvement</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-11-21T17:11:58</code></th>
+			 <th><code>usage_diagram_improvement</code></th>
+			<td><a href="mutation/1700586718/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -693,29 +716,6 @@ Test quality metrics for framework packages.
 			<td><a href="mutation/1699868092/project_mutation_reports/report/report-core/target/pit-reports/index.html">project_mutation_reports/report/report-core/target/pit-reports</a></td>
 			<td><a href="mutation/1699868092/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
 			<td><a href="mutation/1699868092/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
-		</tr>
-		<tr> <th><code>2023-11-13T09:32:09</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1699867929/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 	</tbody>
 </table>
