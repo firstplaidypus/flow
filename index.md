@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>doc_automation</code></th>
+			 <th><code>usage_diagram_improvement</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-11-21T17:07:07</code></th>
+			 <th><code>usage_diagram_improvement</code></th>
+			<td><a href="execution/1700586427/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1700586427/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1700586427/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1700586427/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1700586427/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1700586427/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1700586427/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-11-20T15:41:01</code></th>
 			 <th><code>doc_automation</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1699867769/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1699867769/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1699867769/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-11-13T09:24:52</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/d3-7.4.3</code></th>
-			<td><a href="execution/1699867492/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1699867492/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1699867492/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1699867492/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1699867492/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1699867492/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1699867492/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -729,8 +729,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>doc_automation</code></th>
+			 <th><code>usage_diagram_improvement</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-11-21T17:07:07</code></th>
+			 <th><code>usage_diagram_improvement</code></th>
+			<td><a href="ng_coverage/1700586427/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-11-20T15:41:01</code></th>
 			 <th><code>doc_automation</code></th>
@@ -807,10 +811,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-11-13T09:29:29</code></th>
 			 <th><code>dependabot/maven/io.github.bonigarcia-webdrivermanager-5.6.2</code></th>
 			<td><a href="ng_coverage/1699867769/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-11-13T09:24:52</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/d3-7.4.3</code></th>
-			<td><a href="ng_coverage/1699867492/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
