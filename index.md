@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>mermaid_links</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-11-23T10:26:56</code></th>
+			 <th><code>mermaid_links</code></th>
+			<td><a href="mutation/1700735216/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-11-13T09:45:57</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.2</code></th>
 			<td><a href="mutation/1699868757/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-11-13T09:35:55</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/d3-7.4.3</code></th>
-			<td><a href="mutation/1699868155/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
