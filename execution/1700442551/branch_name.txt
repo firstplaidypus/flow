@@ -1,1 +1,0 @@
-dependabot/github_actions/step-security/harden-runner-2.6.1
