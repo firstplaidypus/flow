@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-11-28T12:47:12</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1701175632/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-11-20T01:14:40</code></th>
 			 <th><code>dependabot/github_actions/step-security/harden-runner-2.6.1</code></th>
 			<td><a href="mutation/1700442880/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-11-20T01:08:01</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.9.2</code></th>
-			<td><a href="mutation/1700442481/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
