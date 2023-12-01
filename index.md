@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/adobe/css-tools-4.3.2</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2023-12-01T05:24:14</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/adobe/css-tools-4.3.2</code></th>
+			<td><a href="mutation/1701408254/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-11-20T01:19:02</code></th>
 			 <th><code>dependabot/maven/org.codehaus.mojo-exec-maven-plugin-3.1.1</code></th>
 			<td><a href="mutation/1700443142/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2023-11-20T01:14:40</code></th>
-			 <th><code>dependabot/github_actions/step-security/harden-runner-2.6.1</code></th>
-			<td><a href="mutation/1700442880/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
