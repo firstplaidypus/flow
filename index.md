@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/setup-java-4.0.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-12-04T10:20:02</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1701685202/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1701685202/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1701685202/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1701685202/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1701685202/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1701685202/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1701685202/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-12-04T07:39:08</code></th>
 			 <th><code>dependabot/github_actions/actions/setup-java-4.0.0</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1700735185/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1700735185/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1700735185/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-11-23T10:21:53</code></th>
-			 <th><code>mermaid_links</code></th>
-			<td><a href="execution/1700734913/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1700734913/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1700734913/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1700734913/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1700734913/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1700734913/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1700734913/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -624,8 +624,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/setup-java-4.0.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-12-04T10:20:02</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1701685202/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-12-04T07:39:08</code></th>
 			 <th><code>dependabot/github_actions/actions/setup-java-4.0.0</code></th>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-11-23T10:26:25</code></th>
 			 <th><code>mermaid_links</code></th>
 			<td><a href="ng_coverage/1700735185/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-11-23T10:21:53</code></th>
-			 <th><code>mermaid_links</code></th>
-			<td><a href="ng_coverage/1700734913/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
