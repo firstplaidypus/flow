@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.4</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-12-11T00:27:50</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.4</code></th>
+			<td><a href="execution/1702254470/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1702254470/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1702254470/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1702254470/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1702254470/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1702254470/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1702254470/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-12-04T10:20:02</code></th>
 			 <th><code>main</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1700736979/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1700736979/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1700736979/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-11-23T10:26:25</code></th>
-			 <th><code>mermaid_links</code></th>
-			<td><a href="execution/1700735185/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1700735185/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1700735185/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1700735185/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1700735185/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1700735185/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1700735185/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -624,8 +624,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.4</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-12-11T00:27:50</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.4</code></th>
+			<td><a href="ng_coverage/1702254470/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-12-04T10:20:02</code></th>
 			 <th><code>main</code></th>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-11-23T10:56:19</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1700736979/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-11-23T10:26:25</code></th>
-			 <th><code>mermaid_links</code></th>
-			<td><a href="ng_coverage/1700735185/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
