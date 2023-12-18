@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.2.3</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.5</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-12-18T00:59:27</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.5</code></th>
+			<td><a href="execution/1702861167/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1702861167/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1702861167/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1702861167/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1702861167/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1702861167/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1702861167/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-12-18T00:43:04</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.2.3</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1701049205/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1701049205/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1701049205/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2023-11-27T01:30:55</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.0</code></th>
-			<td><a href="execution/1701048655/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1701048655/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1701048655/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1701048655/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1701048655/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1701048655/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1701048655/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -624,8 +624,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.2.3</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.5</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-12-18T00:59:27</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.5</code></th>
+			<td><a href="ng_coverage/1702861167/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-12-18T00:43:04</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.2.3</code></th>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-11-27T01:40:05</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/jasmine-5.1.4</code></th>
 			<td><a href="ng_coverage/1701049205/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-11-27T01:30:55</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.0</code></th>
-			<td><a href="ng_coverage/1701048655/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
