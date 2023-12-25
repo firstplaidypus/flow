@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.0</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-node-4.0.1</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-12-25T01:17:02</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-node-4.0.1</code></th>
+			<td><a href="mutation/1703467022/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-12-25T01:14:34</code></th>
 			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.0</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-12-04T00:51:40</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.3</code></th>
 			<td><a href="mutation/1701651100/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-12-01T05:24:14</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/adobe/css-tools-4.3.2</code></th>
-			<td><a href="mutation/1701408254/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
