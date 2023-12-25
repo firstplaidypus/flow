@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.0</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-node-4.0.1</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2023-12-25T01:10:14</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-node-4.0.1</code></th>
+			<td><a href="execution/1703466614/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1703466614/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1703466614/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1703466614/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1703466614/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1703466614/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1703466614/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2023-12-25T01:09:44</code></th>
 			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.0</code></th>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1701650814/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1701650814/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2023-12-04T00:46:17</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.3</code></th>
-			<td><a href="execution/1701650777/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1701650777/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1701650777/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1701650777/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1701650777/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1701650777/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1701650777/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -330,8 +330,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.0</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-node-4.0.1</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2023-12-25T01:10:14</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-node-4.0.1</code></th>
+			<td><a href="ng_coverage/1703466614/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2023-12-25T01:09:44</code></th>
 			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.0</code></th>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2023-12-04T00:46:54</code></th>
 			 <th><code>dependabot/maven/com.github.eirslett-frontend-maven-plugin-1.15.0</code></th>
 			<td><a href="ng_coverage/1701650814/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2023-12-04T00:46:17</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.6.3</code></th>
-			<td><a href="ng_coverage/1701650777/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
