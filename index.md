@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/maven/org.javassist-javassist-3.30.2-GA</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2023-12-25T01:14:07</code></th>
+			 <th><code>dependabot/maven/org.javassist-javassist-3.30.2-GA</code></th>
+			<td><a href="mutation/1703466847/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2023-12-18T09:31:17</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2023-11-28T12:47:12</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1701175632/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2023-11-28T10:46:25</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.0</code></th>
-			<td><a href="mutation/1701168385/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
