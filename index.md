@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2024-01-15T09:37:38</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1705311458/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2024-01-15T09:36:22</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1705311382/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-01-15T00:58:32</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.2.5</code></th>
 			<td><a href="mutation/1705280312/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-01-10T07:48:43</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/follow-redirects-1.15.4</code></th>
-			<td><a href="mutation/1704872923/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
