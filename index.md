@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-4.1.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-01-15T09:27:18</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1705310838/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1705310838/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1705310838/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1705310838/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1705310838/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1705310838/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1705310838/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-01-15T09:26:25</code></th>
 			 <th><code>dependabot/github_actions/actions/upload-artifact-4.1.0</code></th>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1704676053/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1704676053/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2024-01-05T10:31:11</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1704450671/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1704450671/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1704450671/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1704450671/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1704450671/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1704450671/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1704450671/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -330,8 +330,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-4.1.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-01-15T09:27:18</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1705310838/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-01-15T09:26:25</code></th>
 			 <th><code>dependabot/github_actions/actions/upload-artifact-4.1.0</code></th>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-01-08T01:07:33</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.10.7</code></th>
 			<td><a href="ng_coverage/1704676053/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-01-05T10:31:11</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1704450671/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
