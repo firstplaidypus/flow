@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2024-01-15T09:42:27</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1705311747/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2024-01-15T09:42:04</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1705311724/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-01-15T00:59:23</code></th>
 			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.11</code></th>
 			<td><a href="mutation/1705280363/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-01-15T00:58:58</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.3</code></th>
-			<td><a href="mutation/1705280338/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
