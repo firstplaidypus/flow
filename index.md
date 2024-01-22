@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.4</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.7.0</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-01-22T00:57:46</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.7.0</code></th>
+			<td><a href="execution/1705885066/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1705885066/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1705885066/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1705885066/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1705885066/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1705885066/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1705885066/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-01-22T00:41:45</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.4</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1705308159/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1705308159/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1705308159/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-01-15T01:03:07</code></th>
-			 <th><code>dependabot/github_actions/actions/cache-3.3.3</code></th>
-			<td><a href="execution/1705280587/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1705280587/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1705280587/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1705280587/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1705280587/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1705280587/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1705280587/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -624,8 +624,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.4</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.7.0</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-01-22T00:57:46</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.7.0</code></th>
+			<td><a href="ng_coverage/1705885066/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-01-22T00:41:45</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.4</code></th>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-01-15T08:42:39</code></th>
 			 <th><code>sonar_java_bump</code></th>
 			<td><a href="ng_coverage/1705308159/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-01-15T01:03:07</code></th>
-			 <th><code>dependabot/github_actions/actions/cache-3.3.3</code></th>
-			<td><a href="ng_coverage/1705280587/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
