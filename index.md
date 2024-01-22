@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2024-01-22T11:15:57</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1705922157/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1705922157/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1705922157/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1705922157/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1705922157/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1705922157/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1705922157/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2024-01-22T11:15:24</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1705922124/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1705310785/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1705310785/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1705310785/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-01-15T09:20:43</code></th>
-			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.11</code></th>
-			<td><a href="execution/1705310443/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1705310443/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1705310443/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1705310443/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1705310443/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1705310443/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1705310443/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -627,6 +627,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2024-01-22T11:15:57</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1705922157/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2024-01-22T11:15:24</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1705922124/report/index.html">ng_coverage</a></td>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-01-15T09:26:25</code></th>
 			 <th><code>dependabot/github_actions/actions/upload-artifact-4.1.0</code></th>
 			<td><a href="ng_coverage/1705310785/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-01-15T09:20:43</code></th>
-			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.11</code></th>
-			<td><a href="ng_coverage/1705310443/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
