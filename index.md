@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>rm_stepsec</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2024-01-29T08:27:02</code></th>
+			 <th><code>rm_stepsec</code></th>
+			<td><a href="mutation/1706516822/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-01-22T00:45:40</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.4</code></th>
 			<td><a href="mutation/1705884340/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2024-01-22T00:25:48</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-4.2.0</code></th>
-			<td><a href="mutation/1705883148/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
