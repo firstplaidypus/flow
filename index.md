@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2024-01-29T07:56:48</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1706515008/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1706515008/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1706515008/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1706515008/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1706515008/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1706515008/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1706515008/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2024-01-29T07:10:54</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1706512254/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1705882679/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1705882679/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1705882679/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-01-16T10:17:31</code></th>
-			 <th><code>rm_yarn</code></th>
-			<td><a href="execution/1705400251/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1705400251/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1705400251/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1705400251/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1705400251/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1705400251/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1705400251/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -627,6 +627,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2024-01-29T07:56:48</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1706515008/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2024-01-29T07:10:54</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1706512254/report/index.html">ng_coverage</a></td>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-01-22T00:17:59</code></th>
 			 <th><code>dependabot/github_actions/actions/cache-4.0.0</code></th>
 			<td><a href="ng_coverage/1705882679/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-01-16T10:17:31</code></th>
-			 <th><code>rm_yarn</code></th>
-			<td><a href="ng_coverage/1705400251/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
