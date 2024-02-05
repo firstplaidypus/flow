@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.junit-junit-bom-5.10.2</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.16</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2024-02-05T01:27:06</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.16</code></th>
+			<td><a href="mutation/1707096426/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-01-22T08:36:29</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1705912589/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2024-01-22T01:05:01</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.5</code></th>
-			<td><a href="mutation/1705885501/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
