@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.12</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-node-4.0.2</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2024-02-12T01:21:12</code></th>
+			 <th><code>dependabot/github_actions/actions/setup-node-4.0.2</code></th>
+			<td><a href="mutation/1707700872/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -593,24 +611,6 @@ Test quality metrics for framework packages.
 			<td><a href="mutation/1705913206/project_mutation_reports/report/report-core/target/pit-reports/index.html">project_mutation_reports/report/report-core/target/pit-reports</a></td>
 			<td><a href="mutation/1705913206/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
 			<td><a href="mutation/1705913206/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
-		</tr>
-		<tr> <th><code>2024-01-22T08:43:08</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1705912988/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 	</tbody>
 </table>
