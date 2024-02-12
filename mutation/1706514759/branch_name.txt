@@ -1,1 +1,0 @@
-dependabot/github_actions/rhysd/changelog-from-release-3.7.2
