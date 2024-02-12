@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.16</code></th>
+			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.12</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-02-12T00:53:12</code></th>
+			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.12</code></th>
+			<td><a href="execution/1707699192/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1707699192/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1707699192/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1707699192/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1707699192/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1707699192/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1707699192/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-02-05T01:20:20</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.16</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1705912653/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1705912653/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1705912653/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-01-22T08:31:53</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1705912313/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1705912313/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1705912313/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1705912313/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1705912313/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1705912313/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1705912313/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -624,8 +624,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.16</code></th>
+			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.12</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-02-12T00:53:12</code></th>
+			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.12</code></th>
+			<td><a href="ng_coverage/1707699192/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-02-05T01:20:20</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.16</code></th>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-01-22T08:37:33</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1705912653/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-01-22T08:31:53</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1705912313/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
