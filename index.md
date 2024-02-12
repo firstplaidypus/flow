@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-4.3.1</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-02-12T08:06:30</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1707725190/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1707725190/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1707725190/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1707725190/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1707725190/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1707725190/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1707725190/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-02-12T08:06:12</code></th>
 			 <th><code>dependabot/github_actions/actions/upload-artifact-4.3.1</code></th>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1706490000/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1706490000/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2024-01-29T00:57:22</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-4.3.0</code></th>
-			<td><a href="execution/1706489842/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1706489842/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1706489842/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1706489842/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1706489842/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1706489842/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1706489842/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -330,8 +330,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-4.3.1</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-02-12T08:06:30</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1707725190/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-02-12T08:06:12</code></th>
 			 <th><code>dependabot/github_actions/actions/upload-artifact-4.3.1</code></th>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-01-29T01:00:00</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.23.9</code></th>
 			<td><a href="ng_coverage/1706490000/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-01-29T00:57:22</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-4.3.0</code></th>
-			<td><a href="ng_coverage/1706489842/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
