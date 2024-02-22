@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/ip-2.0.1</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-02-22T14:01:34</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1708610494/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-02-21T03:35:29</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/ip-2.0.1</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-02-12T00:59:17</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.7</code></th>
 			<td><a href="mutation/1707699557/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-02-05T01:27:06</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.16</code></th>
-			<td><a href="mutation/1707096426/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
