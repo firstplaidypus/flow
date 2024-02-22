@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2024-02-22T14:05:45</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1708610745/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2024-02-22T14:01:34</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1708610494/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-02-12T00:59:41</code></th>
 			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.12</code></th>
 			<td><a href="mutation/1707699581/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-02-12T00:59:17</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.7</code></th>
-			<td><a href="mutation/1707699557/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
