@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.8.0</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-02-23T09:17:18</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.8.0</code></th>
+			<td><a href="mutation/1708679838/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-02-22T14:05:45</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-02-12T01:21:12</code></th>
 			 <th><code>dependabot/github_actions/actions/setup-node-4.0.2</code></th>
 			<td><a href="mutation/1707700872/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-02-12T00:59:41</code></th>
-			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.12</code></th>
-			<td><a href="mutation/1707699581/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
