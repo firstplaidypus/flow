@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.4.0</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.20</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-02-26T00:38:21</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.20</code></th>
+			<td><a href="execution/1708907901/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1708907901/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1708907901/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1708907901/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1708907901/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1708907901/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1708907901/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-02-26T00:15:11</code></th>
 			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.4.0</code></th>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1707725172/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1707725172/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2024-02-12T01:30:32</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.1.2</code></th>
-			<td><a href="execution/1707701432/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1707701432/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1707701432/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1707701432/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1707701432/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1707701432/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1707701432/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -330,8 +330,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.4.0</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.20</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-02-26T00:38:21</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.20</code></th>
+			<td><a href="ng_coverage/1708907901/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-02-26T00:15:11</code></th>
 			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.4.0</code></th>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-02-12T08:06:12</code></th>
 			 <th><code>dependabot/github_actions/actions/upload-artifact-4.3.1</code></th>
 			<td><a href="ng_coverage/1707725172/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-02-12T01:30:32</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.1.2</code></th>
-			<td><a href="ng_coverage/1707701432/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
