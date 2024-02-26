@@ -235,88 +235,382 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.20</code></th>
+			<td></td>
+			<td><a href="mutation/latest/mutation_report/index.html">mutation_report</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/api/target/pit-reports/index.html">project_mutation_reports/api/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/builder/target/pit-reports/index.html">project_mutation_reports/builder/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-core/target/pit-reports/index.html">project_mutation_reports/message/message-core/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-http/target/pit-reports/index.html">project_mutation_reports/message/message-http/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-json/target/pit-reports/index.html">project_mutation_reports/message/message-json/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-sql/target/pit-reports/index.html">project_mutation_reports/message/message-sql/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-text/target/pit-reports/index.html">project_mutation_reports/message/message-text/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-web/target/pit-reports/index.html">project_mutation_reports/message/message-web/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/message/message-xml/target/pit-reports/index.html">project_mutation_reports/message/message-xml/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/model/target/pit-reports/index.html">project_mutation_reports/model/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/report/report-core/target/pit-reports/index.html">project_mutation_reports/report/report-core/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
+			<td><a href="mutation/latest/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
+		</tr>
+		<tr> <th><code>2024-02-26T08:22:28</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.20</code></th>
+			<td></td>
+			<td><a href="mutation/1708935748/mutation_report/index.html">mutation_report</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/api/target/pit-reports/index.html">project_mutation_reports/api/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/builder/target/pit-reports/index.html">project_mutation_reports/builder/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/message/message-core/target/pit-reports/index.html">project_mutation_reports/message/message-core/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/message/message-http/target/pit-reports/index.html">project_mutation_reports/message/message-http/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/message/message-json/target/pit-reports/index.html">project_mutation_reports/message/message-json/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/message/message-sql/target/pit-reports/index.html">project_mutation_reports/message/message-sql/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/message/message-text/target/pit-reports/index.html">project_mutation_reports/message/message-text/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/message/message-web/target/pit-reports/index.html">project_mutation_reports/message/message-web/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/message/message-xml/target/pit-reports/index.html">project_mutation_reports/message/message-xml/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/model/target/pit-reports/index.html">project_mutation_reports/model/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/report/report-core/target/pit-reports/index.html">project_mutation_reports/report/report-core/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/validation/validation-core/target/pit-reports/index.html">project_mutation_reports/validation/validation-core/target/pit-reports</a></td>
+			<td><a href="mutation/1708935748/project_mutation_reports/validation/validation-junit5/target/pit-reports/index.html">project_mutation_reports/validation/validation-junit5/target/pit-reports</a></td>
 		</tr>
 		<tr> <th><code>2024-02-26T08:19:01</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1708935541/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-26T00:49:43</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/karma-6.4.3</code></th>
 			<td><a href="mutation/1708908583/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-26T00:20:09</code></th>
 			 <th><code>dependabot/maven/org.codehaus.mojo-exec-maven-plugin-3.2.0</code></th>
 			<td><a href="mutation/1708906809/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-26T00:19:51</code></th>
 			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.4.0</code></th>
 			<td><a href="mutation/1708906791/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-26T00:19:35</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.2</code></th>
 			<td><a href="mutation/1708906775/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-23T10:20:33</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1708683633/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-23T09:35:09</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/ip-2.0.1</code></th>
 			<td><a href="mutation/1708680909/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-23T09:34:00</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1708680840/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-23T09:17:18</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.8.0</code></th>
 			<td><a href="mutation/1708679838/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-22T14:05:45</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1708610745/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-22T14:01:34</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1708610494/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-21T03:35:29</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/ip-2.0.1</code></th>
 			<td><a href="mutation/1708486529/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-19T01:34:36</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.19</code></th>
 			<td><a href="mutation/1708306476/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-19T01:30:04</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.4</code></th>
 			<td><a href="mutation/1708306204/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-19T01:23:32</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.8</code></th>
 			<td><a href="mutation/1708305812/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-12T08:41:14</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1707727274/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-12T08:20:48</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1707726048/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-12T08:20:10</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.1.2</code></th>
 			<td><a href="mutation/1707726010/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr> <th><code>2024-02-12T08:18:49</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1707725929/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-02-12T08:17:00</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/jasmine-core-5.1.2</code></th>
-			<td><a href="mutation/1707725820/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
