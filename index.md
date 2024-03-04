@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/cache-4.0.1</code></th>
+			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.4</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-03-04T00:26:07</code></th>
+			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.4</code></th>
+			<td><a href="execution/1709511967/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1709511967/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1709511967/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1709511967/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1709511967/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1709511967/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1709511967/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-03-04T00:25:42</code></th>
 			 <th><code>dependabot/github_actions/actions/cache-4.0.1</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1708305843/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1708305843/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1708305843/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-02-19T01:19:52</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.8</code></th>
-			<td><a href="execution/1708305592/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1708305592/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1708305592/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1708305592/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1708305592/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1708305592/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1708305592/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -624,8 +624,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/cache-4.0.1</code></th>
+			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.4</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-03-04T00:26:07</code></th>
+			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.4</code></th>
+			<td><a href="ng_coverage/1709511967/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-03-04T00:25:42</code></th>
 			 <th><code>dependabot/github_actions/actions/cache-4.0.1</code></th>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-02-19T01:24:03</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.4</code></th>
 			<td><a href="ng_coverage/1708305843/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-02-19T01:19:52</code></th>
-			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.15.8</code></th>
-			<td><a href="ng_coverage/1708305592/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
