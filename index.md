@@ -252,6 +252,24 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2024-03-04T09:27:05</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1709544425/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2024-03-04T09:10:28</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1709543428/mutation_report/index.html">mutation</a></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-02-23T09:34:00</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1708680840/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2024-02-23T09:17:18</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.8.0</code></th>
-			<td><a href="mutation/1708679838/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
