@@ -252,6 +252,24 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2024-03-06T10:48:51</code></th>
+			 <th><code>mutant_hunt</code></th>
+			<td><a href="mutation/1709722131/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2024-03-06T10:40:55</code></th>
 			 <th><code>mutant_hunt</code></th>
 			<td><a href="mutation/1709721655/mutation_report/index.html">mutation</a></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-02-26T00:19:51</code></th>
 			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.4.0</code></th>
 			<td><a href="mutation/1708906791/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2024-02-26T00:19:35</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.2</code></th>
-			<td><a href="mutation/1708906775/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
