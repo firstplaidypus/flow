@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2024-03-07T13:53:35</code></th>
+			 <th><code>restore_mermaid_link</code></th>
+			<td><a href="execution/1709819615/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1709819615/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1709819615/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1709819615/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1709819615/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1709819615/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1709819615/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2024-03-07T13:09:48</code></th>
 			 <th><code>restore_mermaid_link</code></th>
 			<td><a href="execution/1709816988/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1709515350/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1709515350/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1709515350/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-03-04T00:26:07</code></th>
-			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.4</code></th>
-			<td><a href="execution/1709511967/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1709511967/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1709511967/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1709511967/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1709511967/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1709511967/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1709511967/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -627,6 +627,10 @@ Test coverage for the report application.
 			 <th><code>restore_mermaid_link</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2024-03-07T13:53:35</code></th>
+			 <th><code>restore_mermaid_link</code></th>
+			<td><a href="ng_coverage/1709819615/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2024-03-07T13:09:48</code></th>
 			 <th><code>restore_mermaid_link</code></th>
 			<td><a href="ng_coverage/1709816988/report/index.html">ng_coverage</a></td>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-03-04T01:22:30</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.24.0</code></th>
 			<td><a href="ng_coverage/1709515350/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-03-04T00:26:07</code></th>
-			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.4</code></th>
-			<td><a href="ng_coverage/1709511967/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
