@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.9.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-03-11T08:56:21</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1710147381/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1710147381/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1710147381/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1710147381/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1710147381/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1710147381/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1710147381/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-03-11T08:31:13</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.9.0</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1709721278/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1709721278/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1709721278/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-03-06T08:40:57</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1709714457/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1709714457/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1709714457/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1709714457/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1709714457/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1709714457/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1709714457/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -624,8 +624,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.9.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-03-11T08:56:21</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1710147381/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-03-11T08:31:13</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.9.0</code></th>
@@ -702,10 +706,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-03-06T10:34:38</code></th>
 			 <th><code>mutant_hunt</code></th>
 			<td><a href="ng_coverage/1709721278/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-03-06T08:40:57</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1709714457/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
