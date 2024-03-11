@@ -235,8 +235,26 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.16.2</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.25</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2024-03-11T01:36:43</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.25</code></th>
+			<td><a href="mutation/1710121003/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -579,24 +597,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-03-04T00:32:04</code></th>
 			 <th><code>dependabot/github_actions/actions/setup-java-4.1.0</code></th>
 			<td><a href="mutation/1709512324/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2024-02-26T09:36:10</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1708940170/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
