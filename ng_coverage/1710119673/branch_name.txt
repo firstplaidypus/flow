@@ -1,0 +1,1 @@
+dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.4.1
