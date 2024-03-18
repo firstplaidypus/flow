@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-gpg-plugin-3.2.0</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-03-18T00:51:56</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-gpg-plugin-3.2.0</code></th>
+			<td><a href="mutation/1710723116/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-03-17T07:39:46</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-03-07T09:34:35</code></th>
 			 <th><code>release_node_version</code></th>
 			<td><a href="mutation/1709804075/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-03-06T11:08:56</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1709723336/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
