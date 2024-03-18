@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2024-03-18T09:09:38</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1710752978/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1710752978/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1710752978/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1710752978/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1710752978/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1710752978/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1710752978/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2024-03-18T09:09:18</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1710752958/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1710119723/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1710119723/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2024-03-11T01:14:33</code></th>
-			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.4.1</code></th>
-			<td><a href="execution/1710119673/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1710119673/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1710119673/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1710119673/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1710119673/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1710119673/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1710119673/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -333,6 +333,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2024-03-18T09:09:38</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1710752978/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2024-03-18T09:09:18</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1710752958/report/index.html">ng_coverage</a></td>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-03-11T01:15:23</code></th>
 			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.16.2</code></th>
 			<td><a href="ng_coverage/1710119723/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-03-11T01:14:33</code></th>
-			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-3.4.1</code></th>
-			<td><a href="ng_coverage/1710119673/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
