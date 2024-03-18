@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/setup-java-4.2.1</code></th>
+			 <th><code>dependabot/github_actions/actions/checkout-4.1.2</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-03-18T01:29:16</code></th>
+			 <th><code>dependabot/github_actions/actions/checkout-4.1.2</code></th>
+			<td><a href="mutation/1710725356/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-03-18T01:27:34</code></th>
 			 <th><code>dependabot/github_actions/actions/setup-java-4.2.1</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-03-07T14:20:43</code></th>
 			 <th><code>restore_mermaid_link</code></th>
 			<td><a href="mutation/1709821243/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-03-07T10:52:12</code></th>
-			 <th><code>local_node_install</code></th>
-			<td><a href="mutation/1709808732/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
