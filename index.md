@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/express-4.19.2</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-03-27T08:57:20</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1711529840/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-03-26T11:00:25</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/express-4.19.2</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-03-18T01:02:22</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.11.28</code></th>
 			<td><a href="mutation/1710723742/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-03-18T00:51:56</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-gpg-plugin-3.2.0</code></th>
-			<td><a href="mutation/1710723116/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
