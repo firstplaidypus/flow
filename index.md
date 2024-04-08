@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/io.github.bonigarcia-webdrivermanager-5.8.0</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.3.1</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-04-08T01:09:44</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.3.1</code></th>
+			<td><a href="execution/1712538584/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1712538584/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1712538584/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1712538584/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1712538584/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1712538584/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1712538584/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-04-08T01:09:20</code></th>
 			 <th><code>dependabot/maven/io.github.bonigarcia-webdrivermanager-5.8.0</code></th>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1710755193/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1710755193/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2024-03-18T09:09:38</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1710752978/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1710752978/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1710752978/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1710752978/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1710752978/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1710752978/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1710752978/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -330,8 +330,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/io.github.bonigarcia-webdrivermanager-5.8.0</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.3.1</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-04-08T01:09:44</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.3.1</code></th>
+			<td><a href="ng_coverage/1712538584/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-04-08T01:09:20</code></th>
 			 <th><code>dependabot/maven/io.github.bonigarcia-webdrivermanager-5.8.0</code></th>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-03-18T09:46:33</code></th>
 			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.17.0</code></th>
 			<td><a href="ng_coverage/1710755193/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-03-18T09:09:38</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1710752978/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
