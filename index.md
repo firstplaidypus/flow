@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2024-04-15T08:22:31</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1713169351/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1713169351/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1713169351/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1713169351/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1713169351/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1713169351/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1713169351/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2024-04-15T08:20:50</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1713169250/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1711956556/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1711956556/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2024-04-01T07:28:46</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1711956526/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1711956526/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1711956526/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1711956526/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1711956526/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1711956526/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1711956526/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -333,6 +333,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2024-04-15T08:22:31</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1713169351/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2024-04-15T08:20:50</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1713169250/report/index.html">ng_coverage</a></td>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-04-01T07:29:16</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1711956556/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-04-01T07:28:46</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1711956526/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
