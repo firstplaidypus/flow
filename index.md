@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.13</code></th>
+			 <th><code>dependabot/github_actions/stefanzweifel/git-auto-commit-action-5.0.1</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-04-15T01:01:15</code></th>
+			 <th><code>dependabot/github_actions/stefanzweifel/git-auto-commit-action-5.0.1</code></th>
+			<td><a href="mutation/1713142875/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-04-15T00:58:06</code></th>
 			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.13</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-03-27T08:57:20</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1711529840/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-03-26T11:00:25</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/express-4.19.2</code></th>
-			<td><a href="mutation/1711450825/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
