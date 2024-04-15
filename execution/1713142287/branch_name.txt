@@ -1,0 +1,1 @@
+dependabot/maven/com.github.vertical-blank-sql-formatter-2.0.5
