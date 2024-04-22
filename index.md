@@ -257,6 +257,29 @@ Test quality metrics for framework packages.
 			<td></td>
 			<td></td>
 		</tr>
+		<tr> <th><code>2024-04-22T07:20:32</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1713770432/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 		<tr> <th><code>2024-04-22T07:18:13</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1713770293/mutation_report/index.html">mutation</a></td>
@@ -674,29 +697,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-04-15T00:56:26</code></th>
 			 <th><code>dependabot/maven/com.github.vertical-blank-sql-formatter-2.0.5</code></th>
 			<td><a href="mutation/1713142586/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2024-04-08T10:08:17</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1712570897/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
