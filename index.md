@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/checkout-4.1.4</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.3</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-04-29T01:18:29</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.3</code></th>
+			<td><a href="execution/1714353509/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1714353509/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1714353509/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1714353509/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1714353509/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1714353509/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1714353509/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-04-29T01:08:16</code></th>
 			 <th><code>dependabot/github_actions/actions/checkout-4.1.4</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1713142481/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1713142481/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1713142481/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-04-15T00:51:27</code></th>
-			 <th><code>dependabot/maven/com.github.vertical-blank-sql-formatter-2.0.5</code></th>
-			<td><a href="execution/1713142287/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1713142287/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1713142287/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1713142287/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1713142287/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1713142287/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1713142287/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -729,8 +729,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/checkout-4.1.4</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.3</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-04-29T01:18:29</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.3</code></th>
+			<td><a href="ng_coverage/1714353509/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-04-29T01:08:16</code></th>
 			 <th><code>dependabot/github_actions/actions/checkout-4.1.4</code></th>
@@ -807,10 +811,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-04-15T00:54:41</code></th>
 			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.13</code></th>
 			<td><a href="ng_coverage/1713142481/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-04-15T00:51:27</code></th>
-			 <th><code>dependabot/maven/com.github.vertical-blank-sql-formatter-2.0.5</code></th>
-			<td><a href="ng_coverage/1713142287/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
