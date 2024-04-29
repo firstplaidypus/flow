@@ -235,8 +235,31 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/actions/checkout-4.1.4</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.3</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2024-04-29T01:25:09</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.5.3</code></th>
+			<td><a href="mutation/1714353909/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -674,29 +697,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-04-15T01:01:15</code></th>
 			 <th><code>dependabot/github_actions/stefanzweifel/git-auto-commit-action-5.0.1</code></th>
 			<td><a href="mutation/1713142875/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2024-04-15T00:58:06</code></th>
-			 <th><code>dependabot/maven/org.slf4j-slf4j-simple-2.0.13</code></th>
-			<td><a href="mutation/1713142686/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
