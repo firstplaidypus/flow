@@ -1,1 +1,0 @@
-dependabot/github_actions/stefanzweifel/git-auto-commit-action-5.0.1
