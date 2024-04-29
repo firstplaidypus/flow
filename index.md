@@ -235,8 +235,31 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.7</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr> <th><code>2024-04-29T01:13:10</code></th>
+			 <th><code>dependabot/github_actions/actions/download-artifact-4.1.7</code></th>
+			<td><a href="mutation/1714353190/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -674,29 +697,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-04-15T00:57:15</code></th>
 			 <th><code>dependabot/maven/org.pitest-pitest-maven-1.16.0</code></th>
 			<td><a href="mutation/1713142635/mutation_report/index.html">mutation</a></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr> <th><code>2024-04-15T00:56:26</code></th>
-			 <th><code>dependabot/maven/com.github.vertical-blank-sql-formatter-2.0.5</code></th>
-			<td><a href="mutation/1713142586/mutation_report/index.html">mutation</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
