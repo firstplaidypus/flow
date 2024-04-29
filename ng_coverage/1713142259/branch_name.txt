@@ -1,1 +1,0 @@
-dependabot/maven/org.apache.maven.plugins-maven-gpg-plugin-3.2.3
