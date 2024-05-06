@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.17.1</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-deploy-plugin-3.1.2</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-05-06T00:38:15</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-deploy-plugin-3.1.2</code></th>
+			<td><a href="execution/1714955895/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1714955895/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1714955895/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1714955895/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1714955895/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1714955895/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1714955895/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-05-06T00:37:54</code></th>
 			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.17.1</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1713262993/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1713262993/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1713262993/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-04-15T08:23:29</code></th>
-			 <th><code>main</code></th>
-			<td><a href="execution/1713169409/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1713169409/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1713169409/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1713169409/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1713169409/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1713169409/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1713169409/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -729,8 +729,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.17.1</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-deploy-plugin-3.1.2</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-05-06T00:38:15</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-deploy-plugin-3.1.2</code></th>
+			<td><a href="ng_coverage/1714955895/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-05-06T00:37:54</code></th>
 			 <th><code>dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.17.1</code></th>
@@ -807,10 +811,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-04-16T10:23:13</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1713262993/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-04-15T08:23:29</code></th>
-			 <th><code>main</code></th>
-			<td><a href="ng_coverage/1713169409/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
