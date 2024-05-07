@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.5</code></th>
+			 <th><code>main</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-05-07T10:56:40</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1715079400/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1715079400/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1715079400/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1715079400/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1715079400/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1715079400/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1715079400/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-05-06T01:39:14</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.5</code></th>
@@ -212,16 +222,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1713747396/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/1713747396/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1713747396/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
-		<tr> <th><code>2024-04-22T00:55:59</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-4.3.2</code></th>
-			<td><a href="execution/1713747359/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1713747359/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1713747359/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1713747359/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1713747359/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1713747359/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1713747359/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -729,8 +729,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.5</code></th>
+			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-05-07T10:56:40</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1715079400/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-05-06T01:39:14</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.5</code></th>
@@ -807,10 +811,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-04-22T00:56:36</code></th>
 			 <th><code>dependabot/github_actions/actions/checkout-4.1.3</code></th>
 			<td><a href="ng_coverage/1713747396/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-04-22T00:55:59</code></th>
-			 <th><code>dependabot/github_actions/actions/upload-artifact-4.3.2</code></th>
-			<td><a href="ng_coverage/1713747359/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
