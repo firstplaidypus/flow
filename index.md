@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.3</code></th>
+			 <th><code>dependabot/github_actions/actions/checkout-4.1.5</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-05-13T00:17:56</code></th>
+			 <th><code>dependabot/github_actions/actions/checkout-4.1.5</code></th>
+			<td><a href="mutation/1715559476/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-05-13T00:16:54</code></th>
 			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.3</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-04-22T07:18:13</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1713770293/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-04-22T07:17:38</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1713770258/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
