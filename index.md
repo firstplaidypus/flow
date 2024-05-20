@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-4.0.0</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-05-20T09:08:29</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1716196109/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-05-20T00:55:57</code></th>
 			 <th><code>dependabot/maven/com.github.ekryd.sortpom-sortpom-maven-plugin-4.0.0</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-05-06T01:45:48</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.5</code></th>
 			<td><a href="mutation/1714959948/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-05-06T01:42:52</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/types/node-20.12.8</code></th>
-			<td><a href="mutation/1714959772/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
