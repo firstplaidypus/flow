@@ -14,7 +14,7 @@ These reports are the result of comparing a unified model of system behaviour ag
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.9.1</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.24.6</code></th>
 			<td><a href="execution/latest/app-core/target/mctf/latest/index.html">app-core</a></td>
 			<td><a href="execution/latest/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
 			<td><a href="execution/latest/app-itest/target/mctf/latest/index.html">app-itest</a></td>
@@ -22,6 +22,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-store/target/mctf/latest/index.html">app-store</a></td>
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
+		<tr> <th><code>2024-05-27T01:10:43</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.24.6</code></th>
+			<td><a href="execution/1716772243/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1716772243/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1716772243/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1716772243/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1716772243/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1716772243/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1716772243/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
 		<tr> <th><code>2024-05-27T01:07:20</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.9.1</code></th>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1715559080/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1715559080/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2024-05-13T00:10:47</code></th>
-			 <th><code>dependabot/github_actions/actions/checkout-4.1.5</code></th>
-			<td><a href="execution/1715559047/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1715559047/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1715559047/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1715559047/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1715559047/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1715559047/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1715559047/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -330,8 +330,12 @@ Test coverage for the report application.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.9.1</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.24.6</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
+		</tr>
+		<tr> <th><code>2024-05-27T01:10:43</code></th>
+			 <th><code>dependabot/npm_and_yarn/report/report-ng/babel/core-7.24.6</code></th>
+			<td><a href="ng_coverage/1716772243/report/index.html">ng_coverage</a></td>
 		</tr>
 		<tr> <th><code>2024-05-27T01:07:20</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/mermaid-10.9.1</code></th>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-05-13T00:11:20</code></th>
 			 <th><code>dependabot/github_actions/ossf/scorecard-action-2.3.3</code></th>
 			<td><a href="ng_coverage/1715559080/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-05-13T00:10:47</code></th>
-			 <th><code>dependabot/github_actions/actions/checkout-4.1.5</code></th>
-			<td><a href="ng_coverage/1715559047/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
