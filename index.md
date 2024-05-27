@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/maven/org.codehaus.mojo-exec-maven-plugin-3.3.0</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-05-27T00:23:53</code></th>
+			 <th><code>dependabot/maven/org.codehaus.mojo-exec-maven-plugin-3.3.0</code></th>
+			<td><a href="mutation/1716769433/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-05-20T09:09:06</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-05-07T11:06:54</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1715080014/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-05-07T11:02:25</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1715079745/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
