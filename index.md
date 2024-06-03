@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.6.0</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-enforcer-plugin-3.5.0</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-06-03T00:21:07</code></th>
+			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-enforcer-plugin-3.5.0</code></th>
+			<td><a href="mutation/1717374067/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-06-03T00:20:11</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.6.0</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-05-20T00:55:15</code></th>
 			 <th><code>dependabot/github_actions/github/codeql-action-3.25.5</code></th>
 			<td><a href="mutation/1716166515/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-05-13T08:07:14</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1715587634/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
