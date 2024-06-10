@@ -238,6 +238,10 @@ Test quality metrics for framework packages.
 			 <th><code>filter_gui_tweaks</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
 		</tr>
+		<tr> <th><code>2024-06-10T14:56:42</code></th>
+			 <th><code>filter_gui_tweaks</code></th>
+			<td><a href="mutation/1718031402/mutation_report/index.html">mutation</a></td>
+		</tr>
 		<tr> <th><code>2024-06-10T13:46:34</code></th>
 			 <th><code>filter_gui_tweaks</code></th>
 			<td><a href="mutation/1718027194/mutation_report/index.html">mutation</a></td>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-06-04T08:44:57</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1717490697/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-06-04T08:44:13</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1717490653/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
