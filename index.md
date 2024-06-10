@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>main</code></th>
+			 <th><code>dependabot/github_actions/github/codeql-action-3.25.8</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-06-10T00:19:59</code></th>
+			 <th><code>dependabot/github_actions/github/codeql-action-3.25.8</code></th>
+			<td><a href="mutation/1717978799/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-06-07T12:02:38</code></th>
 			 <th><code>main</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-05-27T09:16:00</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1716801360/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-05-27T09:15:39</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1716801339/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
