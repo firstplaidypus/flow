@@ -23,6 +23,16 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/latest/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/latest/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
+		<tr> <th><code>2024-06-10T07:20:35</code></th>
+			 <th><code>main</code></th>
+			<td><a href="execution/1718004035/app-core/target/mctf/latest/index.html">app-core</a></td>
+			<td><a href="execution/1718004035/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
+			<td><a href="execution/1718004035/app-itest/target/mctf/latest/index.html">app-itest</a></td>
+			<td><a href="execution/1718004035/app-queue/target/mctf/latest/index.html">app-queue</a></td>
+			<td><a href="execution/1718004035/app-store/target/mctf/latest/index.html">app-store</a></td>
+			<td><a href="execution/1718004035/app-ui/target/mctf/latest/index.html">app-ui</a></td>
+			<td><a href="execution/1718004035/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
+		</tr>
 		<tr> <th><code>2024-06-10T07:20:16</code></th>
 			 <th><code>main</code></th>
 			<td><a href="execution/1718004016/app-core/target/mctf/latest/index.html">app-core</a></td>
@@ -213,16 +223,6 @@ These reports are the result of comparing a unified model of system behaviour ag
 			<td><a href="execution/1717373702/app-ui/target/mctf/latest/index.html">app-ui</a></td>
 			<td><a href="execution/1717373702/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
 		</tr>
-		<tr> <th><code>2024-06-03T00:14:35</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.7.0</code></th>
-			<td><a href="execution/1717373675/app-core/target/mctf/latest/index.html">app-core</a></td>
-			<td><a href="execution/1717373675/app-histogram/target/mctf/latest/index.html">app-histogram</a></td>
-			<td><a href="execution/1717373675/app-itest/target/mctf/latest/index.html">app-itest</a></td>
-			<td><a href="execution/1717373675/app-queue/target/mctf/latest/index.html">app-queue</a></td>
-			<td><a href="execution/1717373675/app-store/target/mctf/latest/index.html">app-store</a></td>
-			<td><a href="execution/1717373675/app-ui/target/mctf/latest/index.html">app-ui</a></td>
-			<td><a href="execution/1717373675/app-web-ui/target/mctf/latest/index.html">app-web-ui</a></td>
-		</tr>
 	</tbody>
 </table>
 <!-- end:execution -->
@@ -333,6 +333,10 @@ Test coverage for the report application.
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/latest/report/index.html">ng_coverage</a></td>
 		</tr>
+		<tr> <th><code>2024-06-10T07:20:35</code></th>
+			 <th><code>main</code></th>
+			<td><a href="ng_coverage/1718004035/report/index.html">ng_coverage</a></td>
+		</tr>
 		<tr> <th><code>2024-06-10T07:20:16</code></th>
 			 <th><code>main</code></th>
 			<td><a href="ng_coverage/1718004016/report/index.html">ng_coverage</a></td>
@@ -408,10 +412,6 @@ Test coverage for the report application.
 		<tr> <th><code>2024-06-03T00:15:02</code></th>
 			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.6.0</code></th>
 			<td><a href="ng_coverage/1717373702/report/index.html">ng_coverage</a></td>
-		</tr>
-		<tr> <th><code>2024-06-03T00:14:35</code></th>
-			 <th><code>dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.7.0</code></th>
-			<td><a href="ng_coverage/1717373675/report/index.html">ng_coverage</a></td>
 		</tr>
 	</tbody>
 </table>
