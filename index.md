@@ -235,8 +235,12 @@ Test quality metrics for framework packages.
 <table>
 	<tbody>
 		<tr> <th><code>latest</code></th>
-			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.7</code></th>
+			 <th><code>main</code></th>
 			<td><a href="mutation/latest/mutation_report/index.html">mutation</a></td>
+		</tr>
+		<tr> <th><code>2024-06-10T07:54:30</code></th>
+			 <th><code>main</code></th>
+			<td><a href="mutation/1718006070/mutation_report/index.html">mutation</a></td>
 		</tr>
 		<tr> <th><code>2024-06-10T07:30:52</code></th>
 			 <th><code>dependabot/npm_and_yarn/report/report-ng/zone.js-0.14.7</code></th>
@@ -313,10 +317,6 @@ Test quality metrics for framework packages.
 		<tr> <th><code>2024-06-04T08:43:51</code></th>
 			 <th><code>main</code></th>
 			<td><a href="mutation/1717490631/mutation_report/index.html">mutation</a></td>
-		</tr>
-		<tr> <th><code>2024-06-04T08:43:29</code></th>
-			 <th><code>main</code></th>
-			<td><a href="mutation/1717490609/mutation_report/index.html">mutation</a></td>
 		</tr>
 	</tbody>
 </table>
